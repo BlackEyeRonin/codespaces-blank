@@ -1,0 +1,6000 @@
+erythromycin_001:
+  name: erythromycin
+  batch: DC755002
+  serial: SN-VUZZPQK5
+  mfg_date: '2019-01-24'
+  exp_date: '2023-01-24'
+  manufacturer: NovaMed Labs
+  drug_type: Syrup
+  approval_id: SCH-FDA-7924
+  country: Germany
+  composition:
+  - Erythromycin 250mg
+carvedilol_002:
+  name: carvedilol
+  batch: JJ320419
+  serial: SN-CKW5NGCX
+  mfg_date: '2020-04-25'
+  exp_date: '2024-04-25'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Cream
+  approval_id: SCH-FDA-2307
+  country: USA
+  composition:
+  - Carvedilol 150mg
+sertraline_003:
+  name: sertraline
+  batch: JR760652
+  serial: SN-QJ7YHL1C
+  mfg_date: '2022-05-15'
+  exp_date: '2026-05-15'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Tablet
+  approval_id: SCH-FDA-6168
+  country: Spain
+  composition:
+  - Sertraline 50mg
+alprazolam_004:
+  name: alprazolam
+  batch: MX611757
+  serial: SN-PVN9ER14
+  mfg_date: '2021-02-07'
+  exp_date: '2025-02-07'
+  manufacturer: NovaMed Labs
+  drug_type: Syrup
+  approval_id: SCH-FDA-3621
+  country: Canada
+  composition:
+  - Alprazolam 0.5mg
+hydrocortisone_005:
+  name: hydrocortisone
+  batch: ZN980765
+  serial: SN-JXEPQ85J
+  mfg_date: '2022-10-03'
+  exp_date: '2027-10-03'
+  manufacturer: Greenline Pharma
+  drug_type: Syrup
+  approval_id: SCH-FDA-9317
+  country: Australia
+  composition:
+  - Hydrocortisone 75mg
+sulfamethoxazole_006:
+  name: sulfamethoxazole
+  batch: TO750309
+  serial: SN-53LC58DR
+  mfg_date: '2021-11-17'
+  exp_date: '2024-11-17'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Capsule
+  approval_id: SCH-FDA-9727
+  country: Spain
+  composition:
+  - Sulfamethoxazole 100mg
+cephalexin_007:
+  name: cephalexin
+  batch: WL257239
+  serial: SN-XPSEIMVI
+  mfg_date: '2024-08-18'
+  exp_date: '2027-08-18'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Injection
+  approval_id: SCH-FDA-1117
+  country: China
+  composition:
+  - Cephalexin 75mg
+gentamicin_008:
+  name: gentamicin
+  batch: BG621954
+  serial: SN-23GDPPQ0
+  mfg_date: '2024-01-08'
+  exp_date: '2026-01-08'
+  manufacturer: Schleiden BioHealth
+  drug_type: Capsule
+  approval_id: SCH-FDA-1993
+  country: Spain
+  composition:
+  - Gentamicin 300mg
+morphine_009:
+  name: morphine
+  batch: LK229485
+  serial: SN-B94874FR
+  mfg_date: '2021-02-08'
+  exp_date: '2024-02-08'
+  manufacturer: NovaMed Labs
+  drug_type: Injection
+  approval_id: SCH-FDA-7570
+  country: China
+  composition:
+  - Morphine 50mg
+gabapentin_010:
+  name: gabapentin
+  batch: KY957129
+  serial: SN-UT0CVS4F
+  mfg_date: '2022-01-13'
+  exp_date: '2026-01-13'
+  manufacturer: VitaCrest Labs
+  drug_type: Capsule
+  approval_id: SCH-FDA-4044
+  country: France
+  composition:
+  - Gabapentin 300mg
+losartan_011:
+  name: losartan
+  batch: YO500653
+  serial: SN-JYLJEXQ7
+  mfg_date: '2023-02-22'
+  exp_date: '2026-02-22'
+  manufacturer: Greenline Pharma
+  drug_type: Capsule
+  approval_id: SCH-FDA-1152
+  country: USA
+  composition:
+  - Losartan 50mg
+hydroxychloroquine_012:
+  name: hydroxychloroquine
+  batch: ND302245
+  serial: SN-K93TYT7D
+  mfg_date: '2023-10-04'
+  exp_date: '2025-10-04'
+  manufacturer: Horizon Medicos
+  drug_type: Syrup
+  approval_id: SCH-FDA-5333
+  country: Germany
+  composition:
+  - Hydroxychloroquine 75mg
+fluoxetine_013:
+  name: fluoxetine
+  batch: FI685290
+  serial: SN-W3BME9FP
+  mfg_date: '2024-09-05'
+  exp_date: '2028-09-05'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Drops
+  approval_id: SCH-FDA-1158
+  country: Australia
+  composition:
+  - Fluoxetine 20mg
+ciprofloxacin_014:
+  name: ciprofloxacin
+  batch: OL039903
+  serial: SN-YYMU5907
+  mfg_date: '2019-12-05'
+  exp_date: '2021-12-05'
+  manufacturer: Apex Biotech
+  drug_type: Injection
+  approval_id: SCH-FDA-3662
+  country: Australia
+  composition:
+  - Ciprofloxacin 500mg
+pregabalin_015:
+  name: pregabalin
+  batch: WV271882
+  serial: SN-3QK2IAGL
+  mfg_date: '2022-01-06'
+  exp_date: '2026-01-06'
+  manufacturer: Greenline Pharma
+  drug_type: Capsule
+  approval_id: SCH-FDA-5573
+  country: Canada
+  composition:
+  - Pregabalin 75mg
+levocetirizine_016:
+  name: levocetirizine
+  batch: WG590537
+  serial: SN-P9E6GBPS
+  mfg_date: '2024-09-13'
+  exp_date: '2028-09-13'
+  manufacturer: Schleiden BioHealth
+  drug_type: Injection
+  approval_id: SCH-FDA-6967
+  country: USA
+  composition:
+  - Levocetirizine 300mg
+losartan_017:
+  name: losartan
+  batch: SH344214
+  serial: SN-7Y6WKTAK
+  mfg_date: '2024-06-20'
+  exp_date: '2028-06-20'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Drops
+  approval_id: SCH-FDA-6279
+  country: USA
+  composition:
+  - Losartan 50mg
+sildenafil_018:
+  name: sildenafil
+  batch: UY762660
+  serial: SN-8IL3FB9W
+  mfg_date: '2022-08-22'
+  exp_date: '2025-08-22'
+  manufacturer: Horizon Medicos
+  drug_type: Capsule
+  approval_id: SCH-FDA-8461
+  country: Japan
+  composition:
+  - Sildenafil 50mg
+zolpidem_019:
+  name: zolpidem
+  batch: GR077141
+  serial: SN-8SBI4Q2Y
+  mfg_date: '2024-10-07'
+  exp_date: '2029-10-07'
+  manufacturer: VitaCrest Labs
+  drug_type: Ointment
+  approval_id: SCH-FDA-8251
+  country: Italy
+  composition:
+  - Zolpidem 10mg
+nitrofurantoin_020:
+  name: nitrofurantoin
+  batch: LT827424
+  serial: SN-ZIM6CFNF
+  mfg_date: '2024-09-14'
+  exp_date: '2029-09-14'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Injection
+  approval_id: SCH-FDA-2052
+  country: Japan
+  composition:
+  - Nitrofurantoin 300mg
+lorazepam_021:
+  name: lorazepam
+  batch: VK790854
+  serial: SN-7KO64T02
+  mfg_date: '2021-09-15'
+  exp_date: '2026-09-15'
+  manufacturer: Schleiden BioHealth
+  drug_type: Injection
+  approval_id: SCH-FDA-8999
+  country: Germany
+  composition:
+  - Lorazepam 150mg
+metoprolol_022:
+  name: metoprolol
+  batch: RK141603
+  serial: SN-UAXEQBNH
+  mfg_date: '2022-08-01'
+  exp_date: '2027-08-01'
+  manufacturer: Apex Biotech
+  drug_type: Ointment
+  approval_id: SCH-FDA-6529
+  country: Canada
+  composition:
+  - Metoprolol 300mg
+carvedilol_023:
+  name: carvedilol
+  batch: TB920900
+  serial: SN-I4WIRE8Q
+  mfg_date: '2022-05-27'
+  exp_date: '2024-05-27'
+  manufacturer: VitaCrest Labs
+  drug_type: Cream
+  approval_id: SCH-FDA-7043
+  country: India
+  composition:
+  - Carvedilol 100mg
+metronidazole_024:
+  name: metronidazole
+  batch: CA369370
+  serial: SN-YWD14VE9
+  mfg_date: '2023-12-23'
+  exp_date: '2025-12-23'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Tablet
+  approval_id: SCH-FDA-6688
+  country: France
+  composition:
+  - Metronidazole 300mg
+acetylcysteine_025:
+  name: acetylcysteine
+  batch: VC968747
+  serial: SN-8J3TRP0J
+  mfg_date: '2021-02-17'
+  exp_date: '2025-02-17'
+  manufacturer: Schleiden BioHealth
+  drug_type: Injection
+  approval_id: SCH-FDA-2419
+  country: Italy
+  composition:
+  - Acetylcysteine 200mg
+methotrexate_026:
+  name: methotrexate
+  batch: MI432258
+  serial: SN-USGIOTIR
+  mfg_date: '2020-08-19'
+  exp_date: '2025-08-19'
+  manufacturer: Apex Biotech
+  drug_type: Inhaler
+  approval_id: SCH-FDA-8342
+  country: India
+  composition:
+  - Methotrexate 50mg
+prednisone_027:
+  name: prednisone
+  batch: PM547372
+  serial: SN-JEGET1GH
+  mfg_date: '2021-04-13'
+  exp_date: '2024-04-13'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Inhaler
+  approval_id: SCH-FDA-5530
+  country: Canada
+  composition:
+  - Prednisone 10mg
+codeine_028:
+  name: codeine
+  batch: HJ371002
+  serial: SN-7W1DAKRM
+  mfg_date: '2023-09-20'
+  exp_date: '2027-09-20'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Tablet
+  approval_id: SCH-FDA-5136
+  country: Germany
+  composition:
+  - Codeine 500mg
+ciprofloxacin_029:
+  name: ciprofloxacin
+  batch: RD890254
+  serial: SN-VW1N6KVP
+  mfg_date: '2019-07-16'
+  exp_date: '2021-07-16'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Tablet
+  approval_id: SCH-FDA-2625
+  country: Canada
+  composition:
+  - Ciprofloxacin 500mg
+dextromethorphan_030:
+  name: dextromethorphan
+  batch: EE004522
+  serial: SN-ZZQY72WX
+  mfg_date: '2020-11-07'
+  exp_date: '2024-11-07'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Injection
+  approval_id: SCH-FDA-7965
+  country: USA
+  composition:
+  - Dextromethorphan 75mg
+fluconazole_031:
+  name: fluconazole
+  batch: BU589443
+  serial: SN-OJTPV60V
+  mfg_date: '2020-11-05'
+  exp_date: '2024-11-05'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Tablet
+  approval_id: SCH-FDA-2496
+  country: USA
+  composition:
+  - Fluconazole 150mg
+benzoyl_peroxide_032:
+  name: benzoyl_peroxide
+  batch: TE542948
+  serial: SN-8QOLDFOR
+  mfg_date: '2023-10-01'
+  exp_date: '2027-10-01'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Drops
+  approval_id: SCH-FDA-1601
+  country: India
+  composition:
+  - Benzoyl Peroxide 500mg
+prednisone_033:
+  name: prednisone
+  batch: VA840564
+  serial: SN-PBJEK5RB
+  mfg_date: '2021-05-11'
+  exp_date: '2023-05-11'
+  manufacturer: Greenline Pharma
+  drug_type: Injection
+  approval_id: SCH-FDA-3594
+  country: China
+  composition:
+  - Prednisone 10mg
+tiotropium_034:
+  name: tiotropium
+  batch: ZX418475
+  serial: SN-J49ITN7S
+  mfg_date: '2023-01-18'
+  exp_date: '2028-01-18'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Syrup
+  approval_id: SCH-FDA-2143
+  country: Germany
+  composition:
+  - Tiotropium 200mg
+zolpidem_035:
+  name: zolpidem
+  batch: VP684437
+  serial: SN-N759IN4O
+  mfg_date: '2021-09-09'
+  exp_date: '2023-09-09'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Ointment
+  approval_id: SCH-FDA-8749
+  country: France
+  composition:
+  - Zolpidem 10mg
+gentamicin_036:
+  name: gentamicin
+  batch: DZ318090
+  serial: SN-F58C2JWO
+  mfg_date: '2022-07-22'
+  exp_date: '2025-07-22'
+  manufacturer: VitaCrest Labs
+  drug_type: Capsule
+  approval_id: SCH-FDA-6383
+  country: India
+  composition:
+  - Gentamicin 300mg
+methylprednisolone_037:
+  name: methylprednisolone
+  batch: QG622097
+  serial: SN-ZDFKBLCM
+  mfg_date: '2024-12-25'
+  exp_date: '2029-12-25'
+  manufacturer: Horizon Medicos
+  drug_type: Drops
+  approval_id: SCH-FDA-3385
+  country: India
+  composition:
+  - Methylprednisolone 150mg
+amoxi_clav_038:
+  name: amoxi_clav
+  batch: CW629142
+  serial: SN-JA26YFPM
+  mfg_date: '2022-10-22'
+  exp_date: '2025-10-22'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Cream
+  approval_id: SCH-FDA-7951
+  country: UK
+  composition:
+  - Amoxi Clav 200mg
+hydroxychloroquine_039:
+  name: hydroxychloroquine
+  batch: JJ260830
+  serial: SN-52960361
+  mfg_date: '2021-04-13'
+  exp_date: '2026-04-13'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Injection
+  approval_id: SCH-FDA-6772
+  country: Germany
+  composition:
+  - Hydroxychloroquine 150mg
+erythromycin_040:
+  name: erythromycin
+  batch: XQ345702
+  serial: SN-0GET8T63
+  mfg_date: '2020-10-09'
+  exp_date: '2023-10-09'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Cream
+  approval_id: SCH-FDA-8894
+  country: USA
+  composition:
+  - Erythromycin 200mg
+naltrexone_041:
+  name: naltrexone
+  batch: WS998370
+  serial: SN-TQYYV37D
+  mfg_date: '2021-02-15'
+  exp_date: '2023-02-15'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Injection
+  approval_id: SCH-FDA-8724
+  country: Germany
+  composition:
+  - Naltrexone 50mg
+trimethoprim_042:
+  name: trimethoprim
+  batch: QM761009
+  serial: SN-EITNN8ZT
+  mfg_date: '2023-06-20'
+  exp_date: '2026-06-20'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Syrup
+  approval_id: SCH-FDA-7797
+  country: USA
+  composition:
+  - Trimethoprim 75mg
+dutasteride_043:
+  name: dutasteride
+  batch: FL239396
+  serial: SN-CJ883DHX
+  mfg_date: '2023-07-09'
+  exp_date: '2025-07-09'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Tablet
+  approval_id: SCH-FDA-1828
+  country: Spain
+  composition:
+  - Dutasteride 250mg
+hydrochlorothiazide_044:
+  name: hydrochlorothiazide
+  batch: PV277529
+  serial: SN-9T2D5EM2
+  mfg_date: '2020-10-07'
+  exp_date: '2022-10-07'
+  manufacturer: Horizon Medicos
+  drug_type: Ointment
+  approval_id: SCH-FDA-1258
+  country: Germany
+  composition:
+  - HCTZ 25mg
+pregabalin_045:
+  name: pregabalin
+  batch: TM751590
+  serial: SN-25SQ8CRO
+  mfg_date: '2021-01-05'
+  exp_date: '2026-01-05'
+  manufacturer: Horizon Medicos
+  drug_type: Capsule
+  approval_id: SCH-FDA-9032
+  country: USA
+  composition:
+  - Pregabalin 75mg
+oxycodone_046:
+  name: oxycodone
+  batch: BH653954
+  serial: SN-VDZ4X1ZH
+  mfg_date: '2022-02-03'
+  exp_date: '2026-02-03'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Inhaler
+  approval_id: SCH-FDA-4743
+  country: UK
+  composition:
+  - Oxycodone 300mg
+ranitidine_047:
+  name: ranitidine
+  batch: IG964004
+  serial: SN-0NEC8UYO
+  mfg_date: '2022-07-14'
+  exp_date: '2024-07-14'
+  manufacturer: Apex Biotech
+  drug_type: Drops
+  approval_id: SCH-FDA-1842
+  country: Italy
+  composition:
+  - Ranitidine 200mg
+topiramate_048:
+  name: topiramate
+  batch: MW351224
+  serial: SN-U1WYUVXY
+  mfg_date: '2021-06-04'
+  exp_date: '2024-06-04'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Tablet
+  approval_id: SCH-FDA-3955
+  country: Canada
+  composition:
+  - Topiramate 200mg
+neomycin_049:
+  name: neomycin
+  batch: OK160724
+  serial: SN-MNZ1UDBF
+  mfg_date: '2021-06-12'
+  exp_date: '2023-06-12'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Tablet
+  approval_id: SCH-FDA-2336
+  country: UK
+  composition:
+  - Neomycin 200mg
+insulin_glargine_050:
+  name: insulin_glargine
+  batch: FN316553
+  serial: SN-H9BH811K
+  mfg_date: '2024-07-16'
+  exp_date: '2029-07-16'
+  manufacturer: Greenline Pharma
+  drug_type: Capsule
+  approval_id: SCH-FDA-1126
+  country: France
+  composition:
+  - Insulin Glargine 500mg
+naltrexone_051:
+  name: naltrexone
+  batch: NV808009
+  serial: SN-5UUZPEAL
+  mfg_date: '2022-03-05'
+  exp_date: '2027-03-05'
+  manufacturer: Horizon Medicos
+  drug_type: Inhaler
+  approval_id: SCH-FDA-6928
+  country: Germany
+  composition:
+  - Naltrexone 75mg
+famotidine_052:
+  name: famotidine
+  batch: KI331515
+  serial: SN-6M033IFH
+  mfg_date: '2019-04-14'
+  exp_date: '2024-04-14'
+  manufacturer: Horizon Medicos
+  drug_type: Syrup
+  approval_id: SCH-FDA-2234
+  country: USA
+  composition:
+  - Famotidine 100mg
+sulfamethoxazole_053:
+  name: sulfamethoxazole
+  batch: QZ393446
+  serial: SN-2VMCQBNK
+  mfg_date: '2022-08-25'
+  exp_date: '2027-08-25'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Capsule
+  approval_id: SCH-FDA-9307
+  country: Australia
+  composition:
+  - Sulfamethoxazole 300mg
+sildenafil_054:
+  name: sildenafil
+  batch: QI410183
+  serial: SN-ZSGIPPSF
+  mfg_date: '2023-09-26'
+  exp_date: '2025-09-26'
+  manufacturer: VitaCrest Labs
+  drug_type: Ointment
+  approval_id: SCH-FDA-5634
+  country: Australia
+  composition:
+  - Sildenafil 50mg
+colchicine_055:
+  name: colchicine
+  batch: II532896
+  serial: SN-FCX7LXXE
+  mfg_date: '2022-06-22'
+  exp_date: '2024-06-22'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Capsule
+  approval_id: SCH-FDA-6072
+  country: Canada
+  composition:
+  - Colchicine 300mg
+phenylephrine_056:
+  name: phenylephrine
+  batch: LJ312942
+  serial: SN-EC4D145B
+  mfg_date: '2021-03-22'
+  exp_date: '2023-03-22'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Ointment
+  approval_id: SCH-FDA-3147
+  country: Canada
+  composition:
+  - Phenylephrine 300mg
+naproxen_057:
+  name: naproxen
+  batch: BJ796772
+  serial: SN-I826GYUP
+  mfg_date: '2020-03-27'
+  exp_date: '2023-03-27'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Cream
+  approval_id: SCH-FDA-7256
+  country: Japan
+  composition:
+  - Naproxen 250mg
+bisoprolol_058:
+  name: bisoprolol
+  batch: WB439751
+  serial: SN-DFQS3D63
+  mfg_date: '2023-07-06'
+  exp_date: '2026-07-06'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Ointment
+  approval_id: SCH-FDA-1436
+  country: UK
+  composition:
+  - Bisoprolol 300mg
+amlodipine_059:
+  name: amlodipine
+  batch: JA986712
+  serial: SN-3ZEZQACJ
+  mfg_date: '2022-09-12'
+  exp_date: '2025-09-12'
+  manufacturer: Greenline Pharma
+  drug_type: Syrup
+  approval_id: SCH-FDA-9991
+  country: USA
+  composition:
+  - Amlodipine 5mg
+morphine_060:
+  name: morphine
+  batch: HB474195
+  serial: SN-ASIFPWIO
+  mfg_date: '2023-09-14'
+  exp_date: '2025-09-14'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Capsule
+  approval_id: SCH-FDA-9576
+  country: Germany
+  composition:
+  - Morphine 250mg
+losartan_061:
+  name: losartan
+  batch: BK373026
+  serial: SN-DU1EMMX3
+  mfg_date: '2023-09-17'
+  exp_date: '2025-09-17'
+  manufacturer: Greenline Pharma
+  drug_type: Inhaler
+  approval_id: SCH-FDA-8840
+  country: Japan
+  composition:
+  - Losartan 50mg
+sulfamethoxazole_062:
+  name: sulfamethoxazole
+  batch: FU833384
+  serial: SN-BXK5BXJ2
+  mfg_date: '2020-03-03'
+  exp_date: '2025-03-03'
+  manufacturer: Schleiden BioHealth
+  drug_type: Drops
+  approval_id: SCH-FDA-7553
+  country: France
+  composition:
+  - Sulfamethoxazole 500mg
+colchicine_063:
+  name: colchicine
+  batch: GC449121
+  serial: SN-LKQZFPQ0
+  mfg_date: '2021-03-16'
+  exp_date: '2026-03-16'
+  manufacturer: Apex Biotech
+  drug_type: Ointment
+  approval_id: SCH-FDA-8126
+  country: China
+  composition:
+  - Colchicine 200mg
+erythromycin_064:
+  name: erythromycin
+  batch: UR916700
+  serial: SN-2NNUVY8N
+  mfg_date: '2019-02-22'
+  exp_date: '2024-02-22'
+  manufacturer: Apex Biotech
+  drug_type: Capsule
+  approval_id: SCH-FDA-3255
+  country: China
+  composition:
+  - Erythromycin 250mg
+diazepam_065:
+  name: diazepam
+  batch: TM352249
+  serial: SN-K6RE4Q6Q
+  mfg_date: '2021-11-09'
+  exp_date: '2024-11-09'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Capsule
+  approval_id: SCH-FDA-6236
+  country: India
+  composition:
+  - Diazepam 5mg
+salicylic_acid_066:
+  name: salicylic_acid
+  batch: SY675121
+  serial: SN-2ATN2TWD
+  mfg_date: '2021-12-03'
+  exp_date: '2025-12-03'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Cream
+  approval_id: SCH-FDA-7523
+  country: UK
+  composition:
+  - Salicylic Acid 500mg
+amoxi_clav_067:
+  name: amoxi_clav
+  batch: QL638761
+  serial: SN-8P6BEFFL
+  mfg_date: '2022-07-27'
+  exp_date: '2024-07-27'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Injection
+  approval_id: SCH-FDA-6669
+  country: Spain
+  composition:
+  - Amoxi Clav 200mg
+simvastatin_068:
+  name: simvastatin
+  batch: HN519167
+  serial: SN-V4U3BBXU
+  mfg_date: '2021-04-21'
+  exp_date: '2025-04-21'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Injection
+  approval_id: SCH-FDA-7825
+  country: Canada
+  composition:
+  - Simvastatin 20mg
+trimethoprim_069:
+  name: trimethoprim
+  batch: MU620044
+  serial: SN-HVLZ049E
+  mfg_date: '2024-01-16'
+  exp_date: '2028-01-16'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Ointment
+  approval_id: SCH-FDA-9437
+  country: France
+  composition:
+  - Trimethoprim 75mg
+methylprednisolone_070:
+  name: methylprednisolone
+  batch: DB984998
+  serial: SN-7ZGF9Q5R
+  mfg_date: '2020-08-04'
+  exp_date: '2024-08-04'
+  manufacturer: VitaCrest Labs
+  drug_type: Capsule
+  approval_id: SCH-FDA-7442
+  country: Germany
+  composition:
+  - Methylprednisolone 500mg
+lisinopril_071:
+  name: lisinopril
+  batch: MW645848
+  serial: SN-01NOUHTC
+  mfg_date: '2020-10-12'
+  exp_date: '2022-10-12'
+  manufacturer: Schleiden BioHealth
+  drug_type: Inhaler
+  approval_id: SCH-FDA-5582
+  country: France
+  composition:
+  - Lisinopril 10mg
+trimethoprim_072:
+  name: trimethoprim
+  batch: JZ531640
+  serial: SN-BZ2SF6F7
+  mfg_date: '2024-10-04'
+  exp_date: '2027-10-04'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Ointment
+  approval_id: SCH-FDA-3662
+  country: Italy
+  composition:
+  - Trimethoprim 300mg
+nitrofurantoin_073:
+  name: nitrofurantoin
+  batch: NS283695
+  serial: SN-20YAR821
+  mfg_date: '2024-05-19'
+  exp_date: '2028-05-19'
+  manufacturer: Horizon Medicos
+  drug_type: Injection
+  approval_id: SCH-FDA-1841
+  country: China
+  composition:
+  - Nitrofurantoin 500mg
+gabapentin_074:
+  name: gabapentin
+  batch: GO714442
+  serial: SN-SWQ40ZSU
+  mfg_date: '2023-11-24'
+  exp_date: '2028-11-24'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Inhaler
+  approval_id: SCH-FDA-9609
+  country: Canada
+  composition:
+  - Gabapentin 300mg
+allopurinol_075:
+  name: allopurinol
+  batch: RW682492
+  serial: SN-K791ZYRR
+  mfg_date: '2021-03-15'
+  exp_date: '2025-03-15'
+  manufacturer: Horizon Medicos
+  drug_type: Cream
+  approval_id: SCH-FDA-5715
+  country: Spain
+  composition:
+  - Allopurinol 300mg
+clindamycin_076:
+  name: clindamycin
+  batch: YU227342
+  serial: SN-RHT7ZEWV
+  mfg_date: '2023-11-18'
+  exp_date: '2028-11-18'
+  manufacturer: Greenline Pharma
+  drug_type: Injection
+  approval_id: SCH-FDA-1831
+  country: Spain
+  composition:
+  - Clindamycin 150mg
+erythromycin_077:
+  name: erythromycin
+  batch: CU059498
+  serial: SN-RH8LX6DU
+  mfg_date: '2020-01-04'
+  exp_date: '2025-01-04'
+  manufacturer: Apex Biotech
+  drug_type: Tablet
+  approval_id: SCH-FDA-3868
+  country: Japan
+  composition:
+  - Erythromycin 300mg
+pregabalin_078:
+  name: pregabalin
+  batch: WA519295
+  serial: SN-R74QGEFQ
+  mfg_date: '2019-07-26'
+  exp_date: '2024-07-26'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Cream
+  approval_id: SCH-FDA-4050
+  country: France
+  composition:
+  - Pregabalin 75mg
+ibuprofen_079:
+  name: ibuprofen
+  batch: TE888506
+  serial: SN-GFLIJI18
+  mfg_date: '2024-06-26'
+  exp_date: '2028-06-26'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Cream
+  approval_id: SCH-FDA-1187
+  country: Canada
+  composition:
+  - Ibuprofen 400mg
+propranolol_080:
+  name: propranolol
+  batch: DH458731
+  serial: SN-6KWHEF0V
+  mfg_date: '2024-06-23'
+  exp_date: '2027-06-23'
+  manufacturer: Schleiden BioHealth
+  drug_type: Drops
+  approval_id: SCH-FDA-9998
+  country: Canada
+  composition:
+  - Propranolol 500mg
+ondansetron_o_081:
+  name: ondansetron_o
+  batch: TW047050
+  serial: SN-TSUFLSEH
+  mfg_date: '2023-11-27'
+  exp_date: '2026-11-27'
+  manufacturer: NovaMed Labs
+  drug_type: Inhaler
+  approval_id: SCH-FDA-2489
+  country: Canada
+  composition:
+  - Ondansetron O 500mg
+omeprazole_082:
+  name: omeprazole
+  batch: BM873875
+  serial: SN-BMC97C7B
+  mfg_date: '2022-03-17'
+  exp_date: '2027-03-17'
+  manufacturer: VitaCrest Labs
+  drug_type: Drops
+  approval_id: SCH-FDA-3948
+  country: Australia
+  composition:
+  - Omeprazole 20mg
+doxycycline_083:
+  name: doxycycline
+  batch: LX309818
+  serial: SN-E9OE9419
+  mfg_date: '2024-12-21'
+  exp_date: '2029-12-21'
+  manufacturer: Apex Biotech
+  drug_type: Inhaler
+  approval_id: SCH-FDA-9920
+  country: Italy
+  composition:
+  - Doxycycline 100mg
+esomeprazole_084:
+  name: esomeprazole
+  batch: JH971847
+  serial: SN-5AHDBVZB
+  mfg_date: '2023-07-27'
+  exp_date: '2026-07-27'
+  manufacturer: NovaMed Labs
+  drug_type: Tablet
+  approval_id: SCH-FDA-7590
+  country: Japan
+  composition:
+  - Esomeprazole 20mg
+insulin_glargine_085:
+  name: insulin_glargine
+  batch: ZG955782
+  serial: SN-59SOJUV0
+  mfg_date: '2020-09-07'
+  exp_date: '2022-09-07'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Syrup
+  approval_id: SCH-FDA-7999
+  country: China
+  composition:
+  - Insulin Glargine 500mg
+amlodipine_086:
+  name: amlodipine
+  batch: SK215228
+  serial: SN-FQCOOTNJ
+  mfg_date: '2021-11-22'
+  exp_date: '2026-11-22'
+  manufacturer: Horizon Medicos
+  drug_type: Ointment
+  approval_id: SCH-FDA-2295
+  country: Spain
+  composition:
+  - Amlodipine 5mg
+methotrexate_087:
+  name: methotrexate
+  batch: JP008562
+  serial: SN-H6K6HG00
+  mfg_date: '2021-02-18'
+  exp_date: '2024-02-18'
+  manufacturer: Schleiden BioHealth
+  drug_type: Inhaler
+  approval_id: SCH-FDA-4974
+  country: France
+  composition:
+  - Methotrexate 150mg
+diazepam_088:
+  name: diazepam
+  batch: NJ254094
+  serial: SN-46NOUHFJ
+  mfg_date: '2020-09-11'
+  exp_date: '2024-09-11'
+  manufacturer: Greenline Pharma
+  drug_type: Drops
+  approval_id: SCH-FDA-5836
+  country: Japan
+  composition:
+  - Diazepam 5mg
+naproxen_089:
+  name: naproxen
+  batch: MR628964
+  serial: SN-G2GZR7TX
+  mfg_date: '2020-06-08'
+  exp_date: '2025-06-08'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Tablet
+  approval_id: SCH-FDA-9584
+  country: Germany
+  composition:
+  - Naproxen 250mg
+metformin_090:
+  name: metformin
+  batch: VG705366
+  serial: SN-WRRATATJ
+  mfg_date: '2019-11-02'
+  exp_date: '2021-11-02'
+  manufacturer: Greenline Pharma
+  drug_type: Cream
+  approval_id: SCH-FDA-1280
+  country: UK
+  composition:
+  - Metformin 500mg
+bisoprolol_091:
+  name: bisoprolol
+  batch: NG623709
+  serial: SN-QIZK3C9X
+  mfg_date: '2024-11-14'
+  exp_date: '2027-11-14'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Tablet
+  approval_id: SCH-FDA-2531
+  country: USA
+  composition:
+  - Bisoprolol 300mg
+allopurinol_092:
+  name: allopurinol
+  batch: SC863998
+  serial: SN-7I6YUJ7Y
+  mfg_date: '2022-09-16'
+  exp_date: '2024-09-16'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Cream
+  approval_id: SCH-FDA-9897
+  country: India
+  composition:
+  - Allopurinol 300mg
+pantoprazole_093:
+  name: pantoprazole
+  batch: PT730128
+  serial: SN-O6L1F90S
+  mfg_date: '2024-01-06'
+  exp_date: '2028-01-06'
+  manufacturer: Schleiden BioHealth
+  drug_type: Ointment
+  approval_id: SCH-FDA-1879
+  country: Germany
+  composition:
+  - Pantoprazole 75mg
+famotidine_094:
+  name: famotidine
+  batch: QU425315
+  serial: SN-N1KICJN2
+  mfg_date: '2020-02-11'
+  exp_date: '2025-02-11'
+  manufacturer: Apex Biotech
+  drug_type: Syrup
+  approval_id: SCH-FDA-7383
+  country: India
+  composition:
+  - Famotidine 250mg
+loratadine_095:
+  name: loratadine
+  batch: TC045510
+  serial: SN-TV25AO20
+  mfg_date: '2019-02-01'
+  exp_date: '2023-02-01'
+  manufacturer: VitaCrest Labs
+  drug_type: Injection
+  approval_id: SCH-FDA-9537
+  country: Spain
+  composition:
+  - Loratadine 100mg
+hydrocortisone_096:
+  name: hydrocortisone
+  batch: MB444022
+  serial: SN-WVHDK8LW
+  mfg_date: '2022-03-05'
+  exp_date: '2026-03-05'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Ointment
+  approval_id: SCH-FDA-8212
+  country: France
+  composition:
+  - Hydrocortisone 250mg
+famotidine_097:
+  name: famotidine
+  batch: YF399264
+  serial: SN-UIN3OEUV
+  mfg_date: '2024-10-05'
+  exp_date: '2028-10-05'
+  manufacturer: Apex Biotech
+  drug_type: Syrup
+  approval_id: SCH-FDA-1440
+  country: Australia
+  composition:
+  - Famotidine 500mg
+gentamicin_098:
+  name: gentamicin
+  batch: VU446267
+  serial: SN-2C9ROS7Y
+  mfg_date: '2020-08-26'
+  exp_date: '2024-08-26'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Tablet
+  approval_id: SCH-FDA-6890
+  country: USA
+  composition:
+  - Gentamicin 75mg
+fluoxetine_099:
+  name: fluoxetine
+  batch: PO669371
+  serial: SN-DH0UYHNQ
+  mfg_date: '2020-11-22'
+  exp_date: '2024-11-22'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Syrup
+  approval_id: SCH-FDA-6651
+  country: Canada
+  composition:
+  - Fluoxetine 20mg
+azithromycin_100:
+  name: azithromycin
+  batch: VS337530
+  serial: SN-ZQCBZAMD
+  mfg_date: '2022-02-10'
+  exp_date: '2027-02-10'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Syrup
+  approval_id: SCH-FDA-4996
+  country: USA
+  composition:
+  - Azithromycin 250mg
+omep_plus_101:
+  name: omep_plus
+  batch: YG416406
+  serial: SN-HVNZH13C
+  mfg_date: '2020-09-06'
+  exp_date: '2024-09-06'
+  manufacturer: Horizon Medicos
+  drug_type: Capsule
+  approval_id: SCH-FDA-9796
+  country: Italy
+  composition:
+  - Omep Plus 100mg
+loratadine_102:
+  name: loratadine
+  batch: WN656538
+  serial: SN-W3ZKWDEE
+  mfg_date: '2021-04-15'
+  exp_date: '2023-04-15'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Cream
+  approval_id: SCH-FDA-2916
+  country: Canada
+  composition:
+  - Loratadine 100mg
+furosemide_103:
+  name: furosemide
+  batch: DJ166695
+  serial: SN-RFLQBMAE
+  mfg_date: '2024-03-17'
+  exp_date: '2029-03-17'
+  manufacturer: Greenline Pharma
+  drug_type: Drops
+  approval_id: SCH-FDA-9281
+  country: Australia
+  composition:
+  - Furosemide 40mg
+pseudoephedrine_104:
+  name: pseudoephedrine
+  batch: MC072251
+  serial: SN-Q01TEE13
+  mfg_date: '2022-07-22'
+  exp_date: '2027-07-22'
+  manufacturer: Greenline Pharma
+  drug_type: Ointment
+  approval_id: SCH-FDA-9880
+  country: Japan
+  composition:
+  - Pseudoephedrine 50mg
+dextromethorphan_105:
+  name: dextromethorphan
+  batch: TQ280280
+  serial: SN-5E3H0Y4V
+  mfg_date: '2024-08-18'
+  exp_date: '2027-08-18'
+  manufacturer: Greenline Pharma
+  drug_type: Drops
+  approval_id: SCH-FDA-3719
+  country: USA
+  composition:
+  - Dextromethorphan 100mg
+warfarin_106:
+  name: warfarin
+  batch: PE925959
+  serial: SN-3E1OCJXZ
+  mfg_date: '2020-01-19'
+  exp_date: '2024-01-19'
+  manufacturer: Horizon Medicos
+  drug_type: Syrup
+  approval_id: SCH-FDA-5090
+  country: France
+  composition:
+  - Warfarin 5mg
+tetracycline_107:
+  name: tetracycline
+  batch: MP244680
+  serial: SN-SK7N8LA1
+  mfg_date: '2024-06-27'
+  exp_date: '2027-06-27'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Capsule
+  approval_id: SCH-FDA-8511
+  country: Italy
+  composition:
+  - Tetracycline 250mg
+losartan_108:
+  name: losartan
+  batch: GV355436
+  serial: SN-BD2QE4PA
+  mfg_date: '2023-07-07'
+  exp_date: '2028-07-07'
+  manufacturer: NovaMed Labs
+  drug_type: Drops
+  approval_id: SCH-FDA-4314
+  country: Japan
+  composition:
+  - Losartan 50mg
+mupirocin_109:
+  name: mupirocin
+  batch: RG391336
+  serial: SN-IXZAREIY
+  mfg_date: '2020-11-10'
+  exp_date: '2023-11-10'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Tablet
+  approval_id: SCH-FDA-1132
+  country: USA
+  composition:
+  - Mupirocin 250mg
+clindamycin_110:
+  name: clindamycin
+  batch: JS138177
+  serial: SN-E9FTAXP0
+  mfg_date: '2022-12-05'
+  exp_date: '2027-12-05'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Syrup
+  approval_id: SCH-FDA-7745
+  country: Germany
+  composition:
+  - Clindamycin 500mg
+rivaroxaban_111:
+  name: rivaroxaban
+  batch: JL726267
+  serial: SN-K7A45HVG
+  mfg_date: '2019-02-05'
+  exp_date: '2021-02-05'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Drops
+  approval_id: SCH-FDA-5842
+  country: Italy
+  composition:
+  - Rivaroxaban 50mg
+lisinopril_112:
+  name: lisinopril
+  batch: PN999185
+  serial: SN-NY181ACJ
+  mfg_date: '2022-07-04'
+  exp_date: '2025-07-04'
+  manufacturer: VitaCrest Labs
+  drug_type: Tablet
+  approval_id: SCH-FDA-1990
+  country: Canada
+  composition:
+  - Lisinopril 10mg
+diazepam_113:
+  name: diazepam
+  batch: CN623528
+  serial: SN-TOW4YCZ0
+  mfg_date: '2023-05-21'
+  exp_date: '2028-05-21'
+  manufacturer: Greenline Pharma
+  drug_type: Injection
+  approval_id: SCH-FDA-1948
+  country: Italy
+  composition:
+  - Diazepam 5mg
+hydrochlorothiazide_114:
+  name: hydrochlorothiazide
+  batch: BR610104
+  serial: SN-MS3JN050
+  mfg_date: '2019-07-04'
+  exp_date: '2024-07-04'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Capsule
+  approval_id: SCH-FDA-1480
+  country: Australia
+  composition:
+  - HCTZ 25mg
+ondansetron_115:
+  name: ondansetron
+  batch: QM508117
+  serial: SN-6YE0A4AB
+  mfg_date: '2022-05-17'
+  exp_date: '2024-05-17'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Ointment
+  approval_id: SCH-FDA-7274
+  country: Australia
+  composition:
+  - Ondansetron 100mg
+pregabalin_116:
+  name: pregabalin
+  batch: GX385160
+  serial: SN-ISBO551L
+  mfg_date: '2019-09-26'
+  exp_date: '2024-09-26'
+  manufacturer: NovaMed Labs
+  drug_type: Capsule
+  approval_id: SCH-FDA-8483
+  country: Spain
+  composition:
+  - Pregabalin 75mg
+ibuprofen_117:
+  name: ibuprofen
+  batch: GJ997757
+  serial: SN-F7ATWYAM
+  mfg_date: '2021-04-10'
+  exp_date: '2025-04-10'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Drops
+  approval_id: SCH-FDA-6038
+  country: Australia
+  composition:
+  - Ibuprofen 400mg
+fluoxetine_118:
+  name: fluoxetine
+  batch: ZD202848
+  serial: SN-Q0USWOVC
+  mfg_date: '2020-09-08'
+  exp_date: '2025-09-08'
+  manufacturer: VitaCrest Labs
+  drug_type: Syrup
+  approval_id: SCH-FDA-4879
+  country: India
+  composition:
+  - Fluoxetine 20mg
+budesonide_119:
+  name: budesonide
+  batch: IH027511
+  serial: SN-QOT8HLJE
+  mfg_date: '2021-06-26'
+  exp_date: '2026-06-26'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Syrup
+  approval_id: SCH-FDA-5984
+  country: Spain
+  composition:
+  - Budesonide 50mg
+rivaroxaban_120:
+  name: rivaroxaban
+  batch: NR290447
+  serial: SN-IQ2FA39E
+  mfg_date: '2021-03-03'
+  exp_date: '2024-03-03'
+  manufacturer: Apex Biotech
+  drug_type: Drops
+  approval_id: SCH-FDA-7098
+  country: Italy
+  composition:
+  - Rivaroxaban 75mg
+valproate_121:
+  name: valproate
+  batch: FQ808819
+  serial: SN-B7P0RNPM
+  mfg_date: '2023-05-27'
+  exp_date: '2025-05-27'
+  manufacturer: Schleiden BioHealth
+  drug_type: Syrup
+  approval_id: SCH-FDA-5505
+  country: USA
+  composition:
+  - Valproate 200mg
+methotrexate_122:
+  name: methotrexate
+  batch: MW403467
+  serial: SN-I9TANZR2
+  mfg_date: '2020-01-20'
+  exp_date: '2023-01-20'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Ointment
+  approval_id: SCH-FDA-9231
+  country: France
+  composition:
+  - Methotrexate 250mg
+colchicine_123:
+  name: colchicine
+  batch: AV284352
+  serial: SN-FIIT2018
+  mfg_date: '2021-03-01'
+  exp_date: '2025-03-01'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Drops
+  approval_id: SCH-FDA-6813
+  country: Germany
+  composition:
+  - Colchicine 100mg
+pregabalin_124:
+  name: pregabalin
+  batch: SJ519889
+  serial: SN-TGBCVARL
+  mfg_date: '2020-10-11'
+  exp_date: '2024-10-11'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Injection
+  approval_id: SCH-FDA-3137
+  country: India
+  composition:
+  - Pregabalin 75mg
+ranitidine_125:
+  name: ranitidine
+  batch: DS115307
+  serial: SN-XVML90PX
+  mfg_date: '2024-03-26'
+  exp_date: '2028-03-26'
+  manufacturer: Schleiden BioHealth
+  drug_type: Inhaler
+  approval_id: SCH-FDA-6198
+  country: India
+  composition:
+  - Ranitidine 100mg
+gentamicin_126:
+  name: gentamicin
+  batch: PE361799
+  serial: SN-O98BV78H
+  mfg_date: '2023-12-20'
+  exp_date: '2027-12-20'
+  manufacturer: NovaMed Labs
+  drug_type: Capsule
+  approval_id: SCH-FDA-9129
+  country: Canada
+  composition:
+  - Gentamicin 100mg
+ondansetron_127:
+  name: ondansetron
+  batch: QZ867302
+  serial: SN-YM2ZBPPF
+  mfg_date: '2024-02-08'
+  exp_date: '2028-02-08'
+  manufacturer: Apex Biotech
+  drug_type: Drops
+  approval_id: SCH-FDA-9078
+  country: UK
+  composition:
+  - Ondansetron 300mg
+levocetirizine_128:
+  name: levocetirizine
+  batch: TF470021
+  serial: SN-M5FC79M9
+  mfg_date: '2023-07-04'
+  exp_date: '2028-07-04'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Inhaler
+  approval_id: SCH-FDA-1507
+  country: Canada
+  composition:
+  - Levocetirizine 300mg
+pseudoephedrine_129:
+  name: pseudoephedrine
+  batch: IZ459562
+  serial: SN-DOTRBAD3
+  mfg_date: '2020-10-14'
+  exp_date: '2023-10-14'
+  manufacturer: Schleiden BioHealth
+  drug_type: Inhaler
+  approval_id: SCH-FDA-4271
+  country: USA
+  composition:
+  - Pseudoephedrine 75mg
+azithromycin_130:
+  name: azithromycin
+  batch: VI346051
+  serial: SN-5NQJQIJC
+  mfg_date: '2020-03-21'
+  exp_date: '2024-03-21'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Capsule
+  approval_id: SCH-FDA-2404
+  country: Japan
+  composition:
+  - Azithromycin 250mg
+salicylic_acid_131:
+  name: salicylic_acid
+  batch: VV458484
+  serial: SN-C6ZS62YW
+  mfg_date: '2021-09-14'
+  exp_date: '2024-09-14'
+  manufacturer: Horizon Medicos
+  drug_type: Capsule
+  approval_id: SCH-FDA-8357
+  country: India
+  composition:
+  - Salicylic Acid 100mg
+gabapentin_132:
+  name: gabapentin
+  batch: ZL968299
+  serial: SN-CNOLJQ52
+  mfg_date: '2020-04-05'
+  exp_date: '2022-04-05'
+  manufacturer: Greenline Pharma
+  drug_type: Drops
+  approval_id: SCH-FDA-2843
+  country: USA
+  composition:
+  - Gabapentin 300mg
+zolpidem_133:
+  name: zolpidem
+  batch: UU888265
+  serial: SN-RGOWYOO5
+  mfg_date: '2020-03-19'
+  exp_date: '2022-03-19'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Injection
+  approval_id: SCH-FDA-1807
+  country: Australia
+  composition:
+  - Zolpidem 10mg
+naltrexone_134:
+  name: naltrexone
+  batch: IV869237
+  serial: SN-1L0VDP6O
+  mfg_date: '2022-05-12'
+  exp_date: '2024-05-12'
+  manufacturer: Apex Biotech
+  drug_type: Inhaler
+  approval_id: SCH-FDA-9462
+  country: France
+  composition:
+  - Naltrexone 250mg
+omeprazole_135:
+  name: omeprazole
+  batch: KU551820
+  serial: SN-BBMHNQO7
+  mfg_date: '2023-03-03'
+  exp_date: '2027-03-03'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Tablet
+  approval_id: SCH-FDA-4963
+  country: China
+  composition:
+  - Omeprazole 20mg
+furosemide_136:
+  name: furosemide
+  batch: OI828000
+  serial: SN-42HHIHXS
+  mfg_date: '2022-10-15'
+  exp_date: '2025-10-15'
+  manufacturer: VitaCrest Labs
+  drug_type: Tablet
+  approval_id: SCH-FDA-8767
+  country: Australia
+  composition:
+  - Furosemide 40mg
+cephalexin_137:
+  name: cephalexin
+  batch: PY772884
+  serial: SN-HKSWVA98
+  mfg_date: '2024-03-20'
+  exp_date: '2026-03-20'
+  manufacturer: NovaMed Labs
+  drug_type: Ointment
+  approval_id: SCH-FDA-5631
+  country: France
+  composition:
+  - Cephalexin 200mg
+hydrocortisone_138:
+  name: hydrocortisone
+  batch: IH696152
+  serial: SN-C43OLFAR
+  mfg_date: '2019-08-03'
+  exp_date: '2023-08-03'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Cream
+  approval_id: SCH-FDA-5250
+  country: Canada
+  composition:
+  - Hydrocortisone 300mg
+alprazolam_139:
+  name: alprazolam
+  batch: RQ493316
+  serial: SN-UKQ00U68
+  mfg_date: '2022-12-02'
+  exp_date: '2025-12-02'
+  manufacturer: Apex Biotech
+  drug_type: Ointment
+  approval_id: SCH-FDA-2463
+  country: Germany
+  composition:
+  - Alprazolam 0.5mg
+heparin_140:
+  name: heparin
+  batch: JP410656
+  serial: SN-QHEYTO5F
+  mfg_date: '2021-04-24'
+  exp_date: '2025-04-24'
+  manufacturer: Greenline Pharma
+  drug_type: Injection
+  approval_id: SCH-FDA-6614
+  country: Spain
+  composition:
+  - Heparin 300mg
+pantoprazole_141:
+  name: pantoprazole
+  batch: IZ304275
+  serial: SN-F22EPPPR
+  mfg_date: '2022-03-11'
+  exp_date: '2025-03-11'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Tablet
+  approval_id: SCH-FDA-1618
+  country: Japan
+  composition:
+  - Pantoprazole 150mg
+morphine_142:
+  name: morphine
+  batch: AT283153
+  serial: SN-CB8QSSPY
+  mfg_date: '2021-01-11'
+  exp_date: '2024-01-11'
+  manufacturer: Schleiden BioHealth
+  drug_type: Syrup
+  approval_id: SCH-FDA-6615
+  country: Canada
+  composition:
+  - Morphine 500mg
+cetirizine_143:
+  name: cetirizine
+  batch: FZ205177
+  serial: SN-NX1WVBD4
+  mfg_date: '2020-03-26'
+  exp_date: '2025-03-26'
+  manufacturer: Schleiden BioHealth
+  drug_type: Tablet
+  approval_id: SCH-FDA-2897
+  country: Germany
+  composition:
+  - Cetirizine 300mg
+insulin_glargine_144:
+  name: insulin_glargine
+  batch: FR041567
+  serial: SN-P6SWK2RV
+  mfg_date: '2022-02-18'
+  exp_date: '2026-02-18'
+  manufacturer: VitaCrest Labs
+  drug_type: Cream
+  approval_id: SCH-FDA-9571
+  country: UK
+  composition:
+  - Insulin Glargine 150mg
+cetirizine_145:
+  name: cetirizine
+  batch: MF930698
+  serial: SN-YFDS0DJI
+  mfg_date: '2024-07-10'
+  exp_date: '2027-07-10'
+  manufacturer: Schleiden BioHealth
+  drug_type: Cream
+  approval_id: SCH-FDA-5327
+  country: China
+  composition:
+  - Cetirizine 500mg
+amlodipine_146:
+  name: amlodipine
+  batch: UI707086
+  serial: SN-GMPW5D3G
+  mfg_date: '2019-03-28'
+  exp_date: '2021-03-28'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Drops
+  approval_id: SCH-FDA-7557
+  country: Spain
+  composition:
+  - Amlodipine 5mg
+hydroxychloroquine_147:
+  name: hydroxychloroquine
+  batch: XE179819
+  serial: SN-RUPW2W55
+  mfg_date: '2021-07-23'
+  exp_date: '2026-07-23'
+  manufacturer: Greenline Pharma
+  drug_type: Syrup
+  approval_id: SCH-FDA-8914
+  country: Canada
+  composition:
+  - Hydroxychloroquine 500mg
+ciprofloxacin_148:
+  name: ciprofloxacin
+  batch: IS675596
+  serial: SN-MSZDXIMY
+  mfg_date: '2022-08-02'
+  exp_date: '2024-08-02'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Drops
+  approval_id: SCH-FDA-3435
+  country: Canada
+  composition:
+  - Ciprofloxacin 500mg
+clotrimazole_149:
+  name: clotrimazole
+  batch: WW042902
+  serial: SN-XOIQ2Q4Q
+  mfg_date: '2023-01-01'
+  exp_date: '2026-01-01'
+  manufacturer: Horizon Medicos
+  drug_type: Capsule
+  approval_id: SCH-FDA-9148
+  country: Japan
+  composition:
+  - Clotrimazole 50mg
+fluoxetine_150:
+  name: fluoxetine
+  batch: ZQ856438
+  serial: SN-34L1VZNQ
+  mfg_date: '2022-07-02'
+  exp_date: '2024-07-02'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Capsule
+  approval_id: SCH-FDA-4633
+  country: Australia
+  composition:
+  - Fluoxetine 20mg
+paracetamol_151:
+  name: paracetamol
+  batch: JC848742
+  serial: SN-HE4H3GM1
+  mfg_date: '2021-06-27'
+  exp_date: '2025-06-27'
+  manufacturer: Horizon Medicos
+  drug_type: Tablet
+  approval_id: SCH-FDA-3018
+  country: China
+  composition:
+  - Paracetamol 500mg
+methotrexate_152:
+  name: methotrexate
+  batch: NB984591
+  serial: SN-U0ENV5SN
+  mfg_date: '2022-11-19'
+  exp_date: '2025-11-19'
+  manufacturer: VitaCrest Labs
+  drug_type: Injection
+  approval_id: SCH-FDA-5482
+  country: India
+  composition:
+  - Methotrexate 300mg
+ranitidine_153:
+  name: ranitidine
+  batch: PX585375
+  serial: SN-HHZY7EZ9
+  mfg_date: '2021-08-26'
+  exp_date: '2024-08-26'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Syrup
+  approval_id: SCH-FDA-9255
+  country: Italy
+  composition:
+  - Ranitidine 250mg
+gentamicin_154:
+  name: gentamicin
+  batch: YS685840
+  serial: SN-DNBCJ29Y
+  mfg_date: '2019-06-18'
+  exp_date: '2024-06-18'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Syrup
+  approval_id: SCH-FDA-2016
+  country: Australia
+  composition:
+  - Gentamicin 200mg
+warfarin_155:
+  name: warfarin
+  batch: WT875277
+  serial: SN-KX7N89LT
+  mfg_date: '2023-01-12'
+  exp_date: '2028-01-12'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Tablet
+  approval_id: SCH-FDA-5117
+  country: Australia
+  composition:
+  - Warfarin 5mg
+clopidogrel_156:
+  name: clopidogrel
+  batch: JP717149
+  serial: SN-C80EBKJF
+  mfg_date: '2023-08-27'
+  exp_date: '2026-08-27'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Cream
+  approval_id: SCH-FDA-1092
+  country: Canada
+  composition:
+  - Clopidogrel 75mg
+ondansetron_157:
+  name: ondansetron
+  batch: PU683750
+  serial: SN-ZS8S2FTO
+  mfg_date: '2022-12-05'
+  exp_date: '2024-12-05'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Ointment
+  approval_id: SCH-FDA-4624
+  country: Spain
+  composition:
+  - Ondansetron 150mg
+acetylcysteine_158:
+  name: acetylcysteine
+  batch: NZ890649
+  serial: SN-WW8YL68N
+  mfg_date: '2021-06-12'
+  exp_date: '2025-06-12'
+  manufacturer: NovaMed Labs
+  drug_type: Cream
+  approval_id: SCH-FDA-1404
+  country: Australia
+  composition:
+  - Acetylcysteine 250mg
+atorva_plus_159:
+  name: atorva_plus
+  batch: FN919500
+  serial: SN-Y15PDTZ9
+  mfg_date: '2023-08-16'
+  exp_date: '2025-08-16'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Drops
+  approval_id: SCH-FDA-2181
+  country: Canada
+  composition:
+  - Atorva Plus 100mg
+azithromycin_160:
+  name: azithromycin
+  batch: BU552236
+  serial: SN-PAYTXW1V
+  mfg_date: '2022-12-11'
+  exp_date: '2024-12-11'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Capsule
+  approval_id: SCH-FDA-6860
+  country: USA
+  composition:
+  - Azithromycin 250mg
+bisoprolol_161:
+  name: bisoprolol
+  batch: HY380127
+  serial: SN-24KWK585
+  mfg_date: '2019-05-26'
+  exp_date: '2023-05-26'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Ointment
+  approval_id: SCH-FDA-1182
+  country: USA
+  composition:
+  - Bisoprolol 100mg
+clindamycin_162:
+  name: clindamycin
+  batch: YH793465
+  serial: SN-FH4GG244
+  mfg_date: '2019-01-19'
+  exp_date: '2024-01-19'
+  manufacturer: Horizon Medicos
+  drug_type: Inhaler
+  approval_id: SCH-FDA-2198
+  country: China
+  composition:
+  - Clindamycin 200mg
+salicylic_acid_163:
+  name: salicylic_acid
+  batch: MI161693
+  serial: SN-QWLVUNLP
+  mfg_date: '2019-05-04'
+  exp_date: '2022-05-04'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Tablet
+  approval_id: SCH-FDA-6131
+  country: Australia
+  composition:
+  - Salicylic Acid 150mg
+heparin_164:
+  name: heparin
+  batch: DT843351
+  serial: SN-V44FTJ5C
+  mfg_date: '2024-12-21'
+  exp_date: '2029-12-21'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Capsule
+  approval_id: SCH-FDA-1305
+  country: Spain
+  composition:
+  - Heparin 50mg
+valproate_165:
+  name: valproate
+  batch: GX561385
+  serial: SN-4ESDNAI8
+  mfg_date: '2023-07-25'
+  exp_date: '2026-07-25'
+  manufacturer: Schleiden BioHealth
+  drug_type: Syrup
+  approval_id: SCH-FDA-9423
+  country: China
+  composition:
+  - Valproate 100mg
+methotrexate_166:
+  name: methotrexate
+  batch: YB722265
+  serial: SN-2N75BXD8
+  mfg_date: '2020-03-19'
+  exp_date: '2023-03-19'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Cream
+  approval_id: SCH-FDA-5314
+  country: Japan
+  composition:
+  - Methotrexate 100mg
+allopurinol_167:
+  name: allopurinol
+  batch: JX538446
+  serial: SN-SFFCXHGN
+  mfg_date: '2024-07-12'
+  exp_date: '2026-07-12'
+  manufacturer: Horizon Medicos
+  drug_type: Capsule
+  approval_id: SCH-FDA-4773
+  country: France
+  composition:
+  - Allopurinol 300mg
+zolpidem_168:
+  name: zolpidem
+  batch: MP642151
+  serial: SN-S6FF7SO8
+  mfg_date: '2021-12-04'
+  exp_date: '2026-12-04'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Tablet
+  approval_id: SCH-FDA-5644
+  country: Japan
+  composition:
+  - Zolpidem 10mg
+simvastatin_169:
+  name: simvastatin
+  batch: FK157651
+  serial: SN-Y7VCNEAS
+  mfg_date: '2020-08-20'
+  exp_date: '2025-08-20'
+  manufacturer: VitaCrest Labs
+  drug_type: Drops
+  approval_id: SCH-FDA-3450
+  country: UK
+  composition:
+  - Simvastatin 20mg
+metronidazole_170:
+  name: metronidazole
+  batch: TC695096
+  serial: SN-PP5ZP7R1
+  mfg_date: '2019-03-16'
+  exp_date: '2021-03-16'
+  manufacturer: Horizon Medicos
+  drug_type: Ointment
+  approval_id: SCH-FDA-2600
+  country: China
+  composition:
+  - Metronidazole 300mg
+doxycycline_171:
+  name: doxycycline
+  batch: PO207055
+  serial: SN-NH2ODPVJ
+  mfg_date: '2021-08-25'
+  exp_date: '2024-08-25'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Drops
+  approval_id: SCH-FDA-6990
+  country: France
+  composition:
+  - Doxycycline 100mg
+nitrofurantoin_172:
+  name: nitrofurantoin
+  batch: UM352337
+  serial: SN-04X0QZFH
+  mfg_date: '2021-11-13'
+  exp_date: '2024-11-13'
+  manufacturer: Greenline Pharma
+  drug_type: Drops
+  approval_id: SCH-FDA-6544
+  country: China
+  composition:
+  - Nitrofurantoin 50mg
+tramadol_173:
+  name: tramadol
+  batch: YL020039
+  serial: SN-WSZV83XP
+  mfg_date: '2022-11-01'
+  exp_date: '2024-11-01'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Injection
+  approval_id: SCH-FDA-9489
+  country: Japan
+  composition:
+  - Tramadol 50mg
+salbutamol_174:
+  name: salbutamol
+  batch: RJ690236
+  serial: SN-OHAZ7T0U
+  mfg_date: '2020-01-26'
+  exp_date: '2023-01-26'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Ointment
+  approval_id: SCH-FDA-6693
+  country: UK
+  composition:
+  - Salbutamol 200mg
+heparin_175:
+  name: heparin
+  batch: GK102989
+  serial: SN-53UY8U11
+  mfg_date: '2023-04-15'
+  exp_date: '2028-04-15'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Inhaler
+  approval_id: SCH-FDA-8548
+  country: India
+  composition:
+  - Heparin 50mg
+finasteride_176:
+  name: finasteride
+  batch: RF395082
+  serial: SN-DY3C7RM6
+  mfg_date: '2019-05-03'
+  exp_date: '2024-05-03'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Cream
+  approval_id: SCH-FDA-3994
+  country: Germany
+  composition:
+  - Finasteride 150mg
+prednisolone_177:
+  name: prednisolone
+  batch: FV837109
+  serial: SN-RA484NL6
+  mfg_date: '2024-04-08'
+  exp_date: '2027-04-08'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Cream
+  approval_id: SCH-FDA-9041
+  country: Germany
+  composition:
+  - Prednisolone 100mg
+dextromethorphan_178:
+  name: dextromethorphan
+  batch: BU455361
+  serial: SN-9ZQYAHUL
+  mfg_date: '2023-05-13'
+  exp_date: '2026-05-13'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Cream
+  approval_id: SCH-FDA-4066
+  country: UK
+  composition:
+  - Dextromethorphan 200mg
+lisinopril_179:
+  name: lisinopril
+  batch: MF738211
+  serial: SN-UIDJIPNF
+  mfg_date: '2021-08-20'
+  exp_date: '2025-08-20'
+  manufacturer: Apex Biotech
+  drug_type: Syrup
+  approval_id: SCH-FDA-8749
+  country: UK
+  composition:
+  - Lisinopril 10mg
+ibuprofen_180:
+  name: ibuprofen
+  batch: NI428001
+  serial: SN-HJ4D0JMU
+  mfg_date: '2020-07-16'
+  exp_date: '2023-07-16'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Cream
+  approval_id: SCH-FDA-6638
+  country: China
+  composition:
+  - Ibuprofen 400mg
+amoxicillin_181:
+  name: amoxicillin
+  batch: QN923574
+  serial: SN-CWQ85X7P
+  mfg_date: '2022-02-12'
+  exp_date: '2025-02-12'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Drops
+  approval_id: SCH-FDA-2168
+  country: Australia
+  composition:
+  - Amoxicillin 500mg
+simvastatin_182:
+  name: simvastatin
+  batch: HG624835
+  serial: SN-8OGA0X7Z
+  mfg_date: '2020-06-08'
+  exp_date: '2024-06-08'
+  manufacturer: Apex Biotech
+  drug_type: Capsule
+  approval_id: SCH-FDA-4450
+  country: Canada
+  composition:
+  - Simvastatin 20mg
+gabapentin_183:
+  name: gabapentin
+  batch: BU591609
+  serial: SN-OI0PESGB
+  mfg_date: '2022-02-04'
+  exp_date: '2024-02-04'
+  manufacturer: VitaCrest Labs
+  drug_type: Ointment
+  approval_id: SCH-FDA-6328
+  country: China
+  composition:
+  - Gabapentin 300mg
+tadalafil_184:
+  name: tadalafil
+  batch: EP665563
+  serial: SN-MT2PNJKA
+  mfg_date: '2022-09-09'
+  exp_date: '2027-09-09'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Syrup
+  approval_id: SCH-FDA-6634
+  country: China
+  composition:
+  - Tadalafil 200mg
+tadalafil_185:
+  name: tadalafil
+  batch: AL220345
+  serial: SN-OF0ONJPI
+  mfg_date: '2023-01-23'
+  exp_date: '2028-01-23'
+  manufacturer: VitaCrest Labs
+  drug_type: Cream
+  approval_id: SCH-FDA-5664
+  country: France
+  composition:
+  - Tadalafil 200mg
+lorazepam_186:
+  name: lorazepam
+  batch: QQ261005
+  serial: SN-GDJZ0IFR
+  mfg_date: '2020-02-06'
+  exp_date: '2023-02-06'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Ointment
+  approval_id: SCH-FDA-7885
+  country: USA
+  composition:
+  - Lorazepam 200mg
+prednisolone_187:
+  name: prednisolone
+  batch: VY070418
+  serial: SN-33E1I1P0
+  mfg_date: '2021-08-23'
+  exp_date: '2023-08-23'
+  manufacturer: Apex Biotech
+  drug_type: Tablet
+  approval_id: SCH-FDA-4263
+  country: USA
+  composition:
+  - Prednisolone 500mg
+buprenorphine_188:
+  name: buprenorphine
+  batch: RI360952
+  serial: SN-WH55HEWL
+  mfg_date: '2019-09-22'
+  exp_date: '2022-09-22'
+  manufacturer: VitaCrest Labs
+  drug_type: Syrup
+  approval_id: SCH-FDA-5523
+  country: Italy
+  composition:
+  - Buprenorphine 75mg
+diazepam_189:
+  name: diazepam
+  batch: EU246397
+  serial: SN-CMFTDRLU
+  mfg_date: '2020-01-02'
+  exp_date: '2025-01-02'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Ointment
+  approval_id: SCH-FDA-8187
+  country: Australia
+  composition:
+  - Diazepam 5mg
+morphine_190:
+  name: morphine
+  batch: GB755455
+  serial: SN-LQ5V4FTQ
+  mfg_date: '2020-01-23'
+  exp_date: '2025-01-23'
+  manufacturer: Apex Biotech
+  drug_type: Cream
+  approval_id: SCH-FDA-9873
+  country: UK
+  composition:
+  - Morphine 250mg
+hydroxychloroquine_191:
+  name: hydroxychloroquine
+  batch: WQ363098
+  serial: SN-GY1FKOLD
+  mfg_date: '2019-11-17'
+  exp_date: '2024-11-17'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Capsule
+  approval_id: SCH-FDA-1717
+  country: UK
+  composition:
+  - Hydroxychloroquine 100mg
+pregabalin_192:
+  name: pregabalin
+  batch: AQ346502
+  serial: SN-ZA7X73QX
+  mfg_date: '2019-04-04'
+  exp_date: '2024-04-04'
+  manufacturer: NovaMed Labs
+  drug_type: Ointment
+  approval_id: SCH-FDA-7814
+  country: USA
+  composition:
+  - Pregabalin 75mg
+furosemide_193:
+  name: furosemide
+  batch: TV025123
+  serial: SN-GXU8UU01
+  mfg_date: '2024-01-27'
+  exp_date: '2028-01-27'
+  manufacturer: Horizon Medicos
+  drug_type: Ointment
+  approval_id: SCH-FDA-8515
+  country: India
+  composition:
+  - Furosemide 40mg
+neomycin_194:
+  name: neomycin
+  batch: KI194339
+  serial: SN-LN1P0VUH
+  mfg_date: '2024-07-04'
+  exp_date: '2027-07-04'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Cream
+  approval_id: SCH-FDA-6898
+  country: China
+  composition:
+  - Neomycin 500mg
+methotrexate_195:
+  name: methotrexate
+  batch: AD809237
+  serial: SN-737SUUDQ
+  mfg_date: '2022-01-24'
+  exp_date: '2024-01-24'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Syrup
+  approval_id: SCH-FDA-3267
+  country: Australia
+  composition:
+  - Methotrexate 200mg
+loratadine_196:
+  name: loratadine
+  batch: OO203448
+  serial: SN-Z3DXB3N2
+  mfg_date: '2023-04-08'
+  exp_date: '2027-04-08'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Ointment
+  approval_id: SCH-FDA-6700
+  country: USA
+  composition:
+  - Loratadine 300mg
+zolpidem_197:
+  name: zolpidem
+  batch: JH051520
+  serial: SN-0OQVSHKO
+  mfg_date: '2019-04-24'
+  exp_date: '2021-04-24'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Syrup
+  approval_id: SCH-FDA-6507
+  country: Canada
+  composition:
+  - Zolpidem 10mg
+simvastatin_198:
+  name: simvastatin
+  batch: GK467413
+  serial: SN-UU9SIJPY
+  mfg_date: '2022-10-24'
+  exp_date: '2024-10-24'
+  manufacturer: Horizon Medicos
+  drug_type: Capsule
+  approval_id: SCH-FDA-2843
+  country: Italy
+  composition:
+  - Simvastatin 20mg
+salicylic_acid_199:
+  name: salicylic_acid
+  batch: IR713886
+  serial: SN-P7IYF0D0
+  mfg_date: '2022-07-12'
+  exp_date: '2026-07-12'
+  manufacturer: NovaMed Labs
+  drug_type: Injection
+  approval_id: SCH-FDA-3419
+  country: Spain
+  composition:
+  - Salicylic Acid 200mg
+ibuprofen_200:
+  name: ibuprofen
+  batch: MI725756
+  serial: SN-9ZYN6SJC
+  mfg_date: '2021-12-26'
+  exp_date: '2023-12-26'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Injection
+  approval_id: SCH-FDA-5444
+  country: Japan
+  composition:
+  - Ibuprofen 400mg
+amlodipine_201:
+  name: amlodipine
+  batch: HW680862
+  serial: SN-N9DL5TGS
+  mfg_date: '2022-11-01'
+  exp_date: '2024-11-01'
+  manufacturer: Greenline Pharma
+  drug_type: Inhaler
+  approval_id: SCH-FDA-1352
+  country: Canada
+  composition:
+  - Amlodipine 5mg
+atorvastatin_202:
+  name: atorvastatin
+  batch: TA633992
+  serial: SN-CJN9978I
+  mfg_date: '2020-09-10'
+  exp_date: '2024-09-10'
+  manufacturer: VitaCrest Labs
+  drug_type: Ointment
+  approval_id: SCH-FDA-7436
+  country: Italy
+  composition:
+  - Atorvastatin 10mg
+acetylcysteine_203:
+  name: acetylcysteine
+  batch: PQ221993
+  serial: SN-THET25LZ
+  mfg_date: '2020-02-24'
+  exp_date: '2025-02-24'
+  manufacturer: Horizon Medicos
+  drug_type: Syrup
+  approval_id: SCH-FDA-8046
+  country: Canada
+  composition:
+  - Acetylcysteine 100mg
+pseudoephedrine_204:
+  name: pseudoephedrine
+  batch: YD387784
+  serial: SN-OP767J2D
+  mfg_date: '2023-03-11'
+  exp_date: '2025-03-11'
+  manufacturer: Horizon Medicos
+  drug_type: Syrup
+  approval_id: SCH-FDA-1429
+  country: China
+  composition:
+  - Pseudoephedrine 200mg
+metronidazole_205:
+  name: metronidazole
+  batch: AC718461
+  serial: SN-NRFIO878
+  mfg_date: '2023-10-08'
+  exp_date: '2026-10-08'
+  manufacturer: NovaMed Labs
+  drug_type: Injection
+  approval_id: SCH-FDA-4323
+  country: Canada
+  composition:
+  - Metronidazole 150mg
+losartan_206:
+  name: losartan
+  batch: WX476873
+  serial: SN-7UTXZBDQ
+  mfg_date: '2020-08-28'
+  exp_date: '2025-08-28'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Tablet
+  approval_id: SCH-FDA-5025
+  country: Spain
+  composition:
+  - Losartan 50mg
+omep_plus_207:
+  name: omep_plus
+  batch: NQ023384
+  serial: SN-PWBSF3Q0
+  mfg_date: '2023-07-24'
+  exp_date: '2025-07-24'
+  manufacturer: Horizon Medicos
+  drug_type: Capsule
+  approval_id: SCH-FDA-3945
+  country: Italy
+  composition:
+  - Omep Plus 100mg
+diazepam_208:
+  name: diazepam
+  batch: PS242697
+  serial: SN-ZEEQNSN2
+  mfg_date: '2022-06-15'
+  exp_date: '2024-06-15'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Syrup
+  approval_id: SCH-FDA-7204
+  country: Japan
+  composition:
+  - Diazepam 5mg
+ketoconazole_209:
+  name: ketoconazole
+  batch: WW117037
+  serial: SN-8KG68A1A
+  mfg_date: '2022-01-25'
+  exp_date: '2025-01-25'
+  manufacturer: Apex Biotech
+  drug_type: Inhaler
+  approval_id: SCH-FDA-9169
+  country: Australia
+  composition:
+  - Ketoconazole 50mg
+metronidazole_210:
+  name: metronidazole
+  batch: LP082682
+  serial: SN-GBMFBUVL
+  mfg_date: '2022-04-07'
+  exp_date: '2027-04-07'
+  manufacturer: VitaCrest Labs
+  drug_type: Capsule
+  approval_id: SCH-FDA-1803
+  country: Italy
+  composition:
+  - Metronidazole 75mg
+zolpidem_211:
+  name: zolpidem
+  batch: RP714590
+  serial: SN-KNNCPTKE
+  mfg_date: '2020-03-22'
+  exp_date: '2024-03-22'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Cream
+  approval_id: SCH-FDA-6393
+  country: Canada
+  composition:
+  - Zolpidem 10mg
+amoxi_clav_212:
+  name: amoxi_clav
+  batch: CS694699
+  serial: SN-KVLS9MEU
+  mfg_date: '2022-09-07'
+  exp_date: '2025-09-07'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Inhaler
+  approval_id: SCH-FDA-9069
+  country: India
+  composition:
+  - Amoxi Clav 100mg
+nitrofurantoin_213:
+  name: nitrofurantoin
+  batch: AQ187943
+  serial: SN-UWAHK2LS
+  mfg_date: '2020-12-10'
+  exp_date: '2023-12-10'
+  manufacturer: Schleiden BioHealth
+  drug_type: Ointment
+  approval_id: SCH-FDA-1100
+  country: USA
+  composition:
+  - Nitrofurantoin 75mg
+hydrocortisone_214:
+  name: hydrocortisone
+  batch: II697646
+  serial: SN-6TM2O04K
+  mfg_date: '2021-06-13'
+  exp_date: '2023-06-13'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Ointment
+  approval_id: SCH-FDA-9779
+  country: Germany
+  composition:
+  - Hydrocortisone 50mg
+warfarin_215:
+  name: warfarin
+  batch: HA968535
+  serial: SN-51ZLBORI
+  mfg_date: '2023-11-11'
+  exp_date: '2027-11-11'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Inhaler
+  approval_id: SCH-FDA-5958
+  country: UK
+  composition:
+  - Warfarin 5mg
+rivaroxaban_216:
+  name: rivaroxaban
+  batch: UX404519
+  serial: SN-0S1F537Y
+  mfg_date: '2023-05-06'
+  exp_date: '2025-05-06'
+  manufacturer: Apex Biotech
+  drug_type: Syrup
+  approval_id: SCH-FDA-4361
+  country: India
+  composition:
+  - Rivaroxaban 50mg
+hydroxychloroquine_217:
+  name: hydroxychloroquine
+  batch: YR504056
+  serial: SN-LUL6LGJL
+  mfg_date: '2022-12-28'
+  exp_date: '2024-12-28'
+  manufacturer: Schleiden BioHealth
+  drug_type: Inhaler
+  approval_id: SCH-FDA-2927
+  country: France
+  composition:
+  - Hydroxychloroquine 200mg
+naproxen_218:
+  name: naproxen
+  batch: NF331722
+  serial: SN-CWMPEQYD
+  mfg_date: '2020-05-04'
+  exp_date: '2022-05-04'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Tablet
+  approval_id: SCH-FDA-2410
+  country: China
+  composition:
+  - Naproxen 250mg
+esomeprazole_219:
+  name: esomeprazole
+  batch: IV765974
+  serial: SN-E37QQYZQ
+  mfg_date: '2022-03-23'
+  exp_date: '2027-03-23'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Injection
+  approval_id: SCH-FDA-4666
+  country: Spain
+  composition:
+  - Esomeprazole 20mg
+tetracycline_220:
+  name: tetracycline
+  batch: IW340148
+  serial: SN-KMUSOZDU
+  mfg_date: '2023-05-12'
+  exp_date: '2028-05-12'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Capsule
+  approval_id: SCH-FDA-5949
+  country: Canada
+  composition:
+  - Tetracycline 500mg
+alprazolam_221:
+  name: alprazolam
+  batch: ZJ385747
+  serial: SN-TIXC7URV
+  mfg_date: '2023-07-08'
+  exp_date: '2026-07-08'
+  manufacturer: Horizon Medicos
+  drug_type: Inhaler
+  approval_id: SCH-FDA-6330
+  country: UK
+  composition:
+  - Alprazolam 0.5mg
+clotrimazole_222:
+  name: clotrimazole
+  batch: PR583602
+  serial: SN-FU131XQK
+  mfg_date: '2019-08-06'
+  exp_date: '2023-08-06'
+  manufacturer: Greenline Pharma
+  drug_type: Inhaler
+  approval_id: SCH-FDA-4205
+  country: USA
+  composition:
+  - Clotrimazole 150mg
+hydrocortisone_223:
+  name: hydrocortisone
+  batch: ZP658809
+  serial: SN-8AU9DKBP
+  mfg_date: '2021-05-19'
+  exp_date: '2025-05-19'
+  manufacturer: Greenline Pharma
+  drug_type: Drops
+  approval_id: SCH-FDA-6212
+  country: Spain
+  composition:
+  - Hydrocortisone 300mg
+alprazolam_224:
+  name: alprazolam
+  batch: ME398196
+  serial: SN-ECAZRP9D
+  mfg_date: '2022-07-18'
+  exp_date: '2025-07-18'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Drops
+  approval_id: SCH-FDA-8471
+  country: UK
+  composition:
+  - Alprazolam 0.5mg
+neomycin_225:
+  name: neomycin
+  batch: LV324047
+  serial: SN-ZJ7UBBRN
+  mfg_date: '2023-07-20'
+  exp_date: '2026-07-20'
+  manufacturer: VitaCrest Labs
+  drug_type: Inhaler
+  approval_id: SCH-FDA-2311
+  country: China
+  composition:
+  - Neomycin 100mg
+morphine_226:
+  name: morphine
+  batch: CX047906
+  serial: SN-2LBM2QSQ
+  mfg_date: '2024-09-28'
+  exp_date: '2028-09-28'
+  manufacturer: VitaCrest Labs
+  drug_type: Ointment
+  approval_id: SCH-FDA-7897
+  country: China
+  composition:
+  - Morphine 250mg
+budesonide_227:
+  name: budesonide
+  batch: GQ556270
+  serial: SN-REC2JWJJ
+  mfg_date: '2021-03-02'
+  exp_date: '2025-03-02'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Capsule
+  approval_id: SCH-FDA-3860
+  country: Australia
+  composition:
+  - Budesonide 100mg
+acetylcysteine_228:
+  name: acetylcysteine
+  batch: MU830191
+  serial: SN-R91IPWH0
+  mfg_date: '2022-06-26'
+  exp_date: '2025-06-26'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Ointment
+  approval_id: SCH-FDA-1890
+  country: Germany
+  composition:
+  - Acetylcysteine 200mg
+ondansetron_o_229:
+  name: ondansetron_o
+  batch: HT753741
+  serial: SN-5A7QY8YB
+  mfg_date: '2019-01-06'
+  exp_date: '2024-01-06'
+  manufacturer: Greenline Pharma
+  drug_type: Ointment
+  approval_id: SCH-FDA-8074
+  country: Japan
+  composition:
+  - Ondansetron O 200mg
+ondansetron_230:
+  name: ondansetron
+  batch: PL626756
+  serial: SN-9LAACOSY
+  mfg_date: '2021-05-26'
+  exp_date: '2023-05-26'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Ointment
+  approval_id: SCH-FDA-4594
+  country: Canada
+  composition:
+  - Ondansetron 200mg
+spironolactone_231:
+  name: spironolactone
+  batch: RV967181
+  serial: SN-X6U86ZJQ
+  mfg_date: '2020-01-01'
+  exp_date: '2022-01-01'
+  manufacturer: Schleiden BioHealth
+  drug_type: Capsule
+  approval_id: SCH-FDA-8429
+  country: Australia
+  composition:
+  - Spironolactone 200mg
+esomeprazole_232:
+  name: esomeprazole
+  batch: UH039281
+  serial: SN-C9HOXDTP
+  mfg_date: '2024-11-25'
+  exp_date: '2028-11-25'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Capsule
+  approval_id: SCH-FDA-8234
+  country: UK
+  composition:
+  - Esomeprazole 20mg
+oxycodone_233:
+  name: oxycodone
+  batch: SU046003
+  serial: SN-FLOAZ1RO
+  mfg_date: '2021-02-02'
+  exp_date: '2023-02-02'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Capsule
+  approval_id: SCH-FDA-9849
+  country: Australia
+  composition:
+  - Oxycodone 150mg
+paracetamol_234:
+  name: paracetamol
+  batch: NZ330963
+  serial: SN-4M41KHT8
+  mfg_date: '2022-12-27'
+  exp_date: '2027-12-27'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Injection
+  approval_id: SCH-FDA-5896
+  country: Australia
+  composition:
+  - Paracetamol 500mg
+neomycin_235:
+  name: neomycin
+  batch: XL100923
+  serial: SN-2XR838AM
+  mfg_date: '2022-02-21'
+  exp_date: '2026-02-21'
+  manufacturer: VitaCrest Labs
+  drug_type: Ointment
+  approval_id: SCH-FDA-1701
+  country: USA
+  composition:
+  - Neomycin 300mg
+clindamycin_236:
+  name: clindamycin
+  batch: DP901649
+  serial: SN-BZEGBL2Q
+  mfg_date: '2020-11-22'
+  exp_date: '2025-11-22'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Syrup
+  approval_id: SCH-FDA-2047
+  country: China
+  composition:
+  - Clindamycin 75mg
+ciprofloxacin_237:
+  name: ciprofloxacin
+  batch: LV963951
+  serial: SN-421VMEFO
+  mfg_date: '2022-10-26'
+  exp_date: '2025-10-26'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Ointment
+  approval_id: SCH-FDA-3703
+  country: Germany
+  composition:
+  - Ciprofloxacin 500mg
+insulin_glargine_238:
+  name: insulin_glargine
+  batch: PU040106
+  serial: SN-5O31YHXS
+  mfg_date: '2020-10-02'
+  exp_date: '2023-10-02'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Drops
+  approval_id: SCH-FDA-4919
+  country: Canada
+  composition:
+  - Insulin Glargine 100mg
+nitrofurantoin_239:
+  name: nitrofurantoin
+  batch: PC834519
+  serial: SN-9W59SQWH
+  mfg_date: '2024-01-20'
+  exp_date: '2027-01-20'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Tablet
+  approval_id: SCH-FDA-4173
+  country: Japan
+  composition:
+  - Nitrofurantoin 75mg
+naproxen_240:
+  name: naproxen
+  batch: XB322684
+  serial: SN-DBTFBSCI
+  mfg_date: '2024-08-16'
+  exp_date: '2027-08-16'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Inhaler
+  approval_id: SCH-FDA-6340
+  country: Canada
+  composition:
+  - Naproxen 250mg
+zolpidem_241:
+  name: zolpidem
+  batch: IC783244
+  serial: SN-6F7QNEZW
+  mfg_date: '2020-12-22'
+  exp_date: '2024-12-22'
+  manufacturer: NovaMed Labs
+  drug_type: Cream
+  approval_id: SCH-FDA-4313
+  country: USA
+  composition:
+  - Zolpidem 10mg
+ondansetron_242:
+  name: ondansetron
+  batch: CM472217
+  serial: SN-86UTIOS5
+  mfg_date: '2020-01-23'
+  exp_date: '2022-01-23'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Injection
+  approval_id: SCH-FDA-8757
+  country: UK
+  composition:
+  - Ondansetron 500mg
+carvedilol_243:
+  name: carvedilol
+  batch: LF999840
+  serial: SN-90SPO3ZD
+  mfg_date: '2019-12-14'
+  exp_date: '2022-12-14'
+  manufacturer: NovaMed Labs
+  drug_type: Inhaler
+  approval_id: SCH-FDA-4940
+  country: Spain
+  composition:
+  - Carvedilol 75mg
+clotrimazole_244:
+  name: clotrimazole
+  batch: JG906145
+  serial: SN-V9QEZG5W
+  mfg_date: '2019-12-24'
+  exp_date: '2024-12-24'
+  manufacturer: NovaMed Labs
+  drug_type: Tablet
+  approval_id: SCH-FDA-2158
+  country: UK
+  composition:
+  - Clotrimazole 300mg
+mupirocin_245:
+  name: mupirocin
+  batch: SP526639
+  serial: SN-S6NBNQBN
+  mfg_date: '2021-09-02'
+  exp_date: '2025-09-02'
+  manufacturer: Greenline Pharma
+  drug_type: Capsule
+  approval_id: SCH-FDA-4354
+  country: France
+  composition:
+  - Mupirocin 100mg
+ondansetron_246:
+  name: ondansetron
+  batch: WS773854
+  serial: SN-BNQS3QT3
+  mfg_date: '2020-09-04'
+  exp_date: '2025-09-04'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Cream
+  approval_id: SCH-FDA-8405
+  country: Australia
+  composition:
+  - Ondansetron 250mg
+benzoyl_peroxide_247:
+  name: benzoyl_peroxide
+  batch: KE901111
+  serial: SN-H8AOY7RP
+  mfg_date: '2024-02-07'
+  exp_date: '2029-02-07'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Tablet
+  approval_id: SCH-FDA-5776
+  country: USA
+  composition:
+  - Benzoyl Peroxide 150mg
+losartan_248:
+  name: losartan
+  batch: IQ356843
+  serial: SN-E2GJR81B
+  mfg_date: '2019-04-27'
+  exp_date: '2023-04-27'
+  manufacturer: Greenline Pharma
+  drug_type: Ointment
+  approval_id: SCH-FDA-5659
+  country: Australia
+  composition:
+  - Losartan 50mg
+hydroxychloroquine_249:
+  name: hydroxychloroquine
+  batch: VS612031
+  serial: SN-JGUBLMNT
+  mfg_date: '2020-10-06'
+  exp_date: '2024-10-06'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Syrup
+  approval_id: SCH-FDA-9743
+  country: UK
+  composition:
+  - Hydroxychloroquine 200mg
+clindamycin_250:
+  name: clindamycin
+  batch: EZ556289
+  serial: SN-19Y207ME
+  mfg_date: '2019-07-16'
+  exp_date: '2022-07-16'
+  manufacturer: VitaCrest Labs
+  drug_type: Inhaler
+  approval_id: SCH-FDA-1656
+  country: Spain
+  composition:
+  - Clindamycin 100mg
+benzoyl_peroxide_251:
+  name: benzoyl_peroxide
+  batch: VL006529
+  serial: SN-KATQYDSH
+  mfg_date: '2023-02-10'
+  exp_date: '2025-02-10'
+  manufacturer: Greenline Pharma
+  drug_type: Ointment
+  approval_id: SCH-FDA-9381
+  country: Australia
+  composition:
+  - Benzoyl Peroxide 50mg
+salicylic_acid_252:
+  name: salicylic_acid
+  batch: JH398074
+  serial: SN-92K38P6F
+  mfg_date: '2021-07-05'
+  exp_date: '2026-07-05'
+  manufacturer: Apex Biotech
+  drug_type: Capsule
+  approval_id: SCH-FDA-3353
+  country: Italy
+  composition:
+  - Salicylic Acid 150mg
+montelukast_253:
+  name: montelukast
+  batch: CK945771
+  serial: SN-GNTB34KU
+  mfg_date: '2022-09-11'
+  exp_date: '2024-09-11'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Inhaler
+  approval_id: SCH-FDA-4678
+  country: Italy
+  composition:
+  - Montelukast 50mg
+paracetamol_254:
+  name: paracetamol
+  batch: RH196074
+  serial: SN-8VNRPJY9
+  mfg_date: '2020-05-10'
+  exp_date: '2025-05-10'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Capsule
+  approval_id: SCH-FDA-7114
+  country: Canada
+  composition:
+  - Paracetamol 500mg
+atorva_plus_255:
+  name: atorva_plus
+  batch: BI811249
+  serial: SN-MKT7S1GD
+  mfg_date: '2024-10-01'
+  exp_date: '2028-10-01'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Syrup
+  approval_id: SCH-FDA-9908
+  country: Australia
+  composition:
+  - Atorva Plus 250mg
+methylprednisolone_256:
+  name: methylprednisolone
+  batch: PV053439
+  serial: SN-DFHG6W3S
+  mfg_date: '2024-05-09'
+  exp_date: '2028-05-09'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Capsule
+  approval_id: SCH-FDA-7837
+  country: China
+  composition:
+  - Methylprednisolone 500mg
+levothyroxine_257:
+  name: levothyroxine
+  batch: RD495913
+  serial: SN-0EEYYLH9
+  mfg_date: '2019-03-01'
+  exp_date: '2024-03-01'
+  manufacturer: Apex Biotech
+  drug_type: Drops
+  approval_id: SCH-FDA-2830
+  country: France
+  composition:
+  - Levothyroxine 50mcg
+levothyroxine_258:
+  name: levothyroxine
+  batch: CU501206
+  serial: SN-127H6GMD
+  mfg_date: '2019-08-25'
+  exp_date: '2024-08-25'
+  manufacturer: Schleiden BioHealth
+  drug_type: Cream
+  approval_id: SCH-FDA-6698
+  country: Germany
+  composition:
+  - Levothyroxine 50mcg
+cetirizine_259:
+  name: cetirizine
+  batch: BV757917
+  serial: SN-A0774RZG
+  mfg_date: '2020-09-25'
+  exp_date: '2023-09-25'
+  manufacturer: Horizon Medicos
+  drug_type: Capsule
+  approval_id: SCH-FDA-3963
+  country: Australia
+  composition:
+  - Cetirizine 250mg
+allopurinol_260:
+  name: allopurinol
+  batch: TI454327
+  serial: SN-CRNQ0Y4I
+  mfg_date: '2022-04-17'
+  exp_date: '2025-04-17'
+  manufacturer: Greenline Pharma
+  drug_type: Drops
+  approval_id: SCH-FDA-5761
+  country: USA
+  composition:
+  - Allopurinol 300mg
+esomeprazole_261:
+  name: esomeprazole
+  batch: EZ414601
+  serial: SN-OVD79C9M
+  mfg_date: '2020-02-27'
+  exp_date: '2025-02-27'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Drops
+  approval_id: SCH-FDA-3011
+  country: Spain
+  composition:
+  - Esomeprazole 20mg
+insulin_262:
+  name: insulin
+  batch: PT893699
+  serial: SN-SFQERI7B
+  mfg_date: '2022-12-16'
+  exp_date: '2026-12-16'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Tablet
+  approval_id: SCH-FDA-2117
+  country: Australia
+  composition:
+  - Insulin (variable)
+prednisolone_263:
+  name: prednisolone
+  batch: IH676544
+  serial: SN-KRST3TA1
+  mfg_date: '2024-01-06'
+  exp_date: '2029-01-06'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Drops
+  approval_id: SCH-FDA-2951
+  country: Canada
+  composition:
+  - Prednisolone 300mg
+methotrexate_264:
+  name: methotrexate
+  batch: ER781433
+  serial: SN-1URTTQUF
+  mfg_date: '2021-07-15'
+  exp_date: '2026-07-15'
+  manufacturer: Schleiden BioHealth
+  drug_type: Tablet
+  approval_id: SCH-FDA-7412
+  country: India
+  composition:
+  - Methotrexate 200mg
+prednisolone_265:
+  name: prednisolone
+  batch: BP138576
+  serial: SN-NP9OCIIL
+  mfg_date: '2023-07-20'
+  exp_date: '2027-07-20'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Capsule
+  approval_id: SCH-FDA-2073
+  country: Spain
+  composition:
+  - Prednisolone 200mg
+ciprofloxacin_266:
+  name: ciprofloxacin
+  batch: RK540403
+  serial: SN-ULDRYHR3
+  mfg_date: '2021-03-01'
+  exp_date: '2025-03-01'
+  manufacturer: Schleiden BioHealth
+  drug_type: Ointment
+  approval_id: SCH-FDA-3730
+  country: Japan
+  composition:
+  - Ciprofloxacin 500mg
+nitrofurantoin_267:
+  name: nitrofurantoin
+  batch: WU852094
+  serial: SN-I0D4DMC2
+  mfg_date: '2021-06-14'
+  exp_date: '2024-06-14'
+  manufacturer: VitaCrest Labs
+  drug_type: Inhaler
+  approval_id: SCH-FDA-7997
+  country: Canada
+  composition:
+  - Nitrofurantoin 150mg
+levocetirizine_268:
+  name: levocetirizine
+  batch: LO246471
+  serial: SN-AZ5UH80Q
+  mfg_date: '2019-11-27'
+  exp_date: '2023-11-27'
+  manufacturer: Horizon Medicos
+  drug_type: Drops
+  approval_id: SCH-FDA-1981
+  country: France
+  composition:
+  - Levocetirizine 150mg
+loratadine_269:
+  name: loratadine
+  batch: TV489682
+  serial: SN-KFYIIFA2
+  mfg_date: '2022-03-08'
+  exp_date: '2025-03-08'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Cream
+  approval_id: SCH-FDA-8604
+  country: Canada
+  composition:
+  - Loratadine 500mg
+clotrimazole_270:
+  name: clotrimazole
+  batch: HA725607
+  serial: SN-2B6LKC86
+  mfg_date: '2022-07-21'
+  exp_date: '2024-07-21'
+  manufacturer: NovaMed Labs
+  drug_type: Capsule
+  approval_id: SCH-FDA-7502
+  country: UK
+  composition:
+  - Clotrimazole 100mg
+lisinopril_271:
+  name: lisinopril
+  batch: VY928218
+  serial: SN-LVO0IPFG
+  mfg_date: '2019-10-24'
+  exp_date: '2021-10-24'
+  manufacturer: Horizon Medicos
+  drug_type: Cream
+  approval_id: SCH-FDA-8200
+  country: Canada
+  composition:
+  - Lisinopril 10mg
+lorazepam_272:
+  name: lorazepam
+  batch: SC542271
+  serial: SN-RNLX6B02
+  mfg_date: '2021-10-02'
+  exp_date: '2026-10-02'
+  manufacturer: Horizon Medicos
+  drug_type: Tablet
+  approval_id: SCH-FDA-4926
+  country: Spain
+  composition:
+  - Lorazepam 200mg
+ketoconazole_273:
+  name: ketoconazole
+  batch: NG409993
+  serial: SN-71K4FPL3
+  mfg_date: '2022-05-21'
+  exp_date: '2026-05-21'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Drops
+  approval_id: SCH-FDA-1555
+  country: USA
+  composition:
+  - Ketoconazole 200mg
+simvastatin_274:
+  name: simvastatin
+  batch: WV865368
+  serial: SN-0QABXW2E
+  mfg_date: '2022-08-24'
+  exp_date: '2027-08-24'
+  manufacturer: Apex Biotech
+  drug_type: Drops
+  approval_id: SCH-FDA-4278
+  country: Italy
+  composition:
+  - Simvastatin 20mg
+sulfamethoxazole_275:
+  name: sulfamethoxazole
+  batch: GS761549
+  serial: SN-Q5EGVLKD
+  mfg_date: '2021-06-19'
+  exp_date: '2023-06-19'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Ointment
+  approval_id: SCH-FDA-3980
+  country: UK
+  composition:
+  - Sulfamethoxazole 300mg
+allopurinol_276:
+  name: allopurinol
+  batch: PF042806
+  serial: SN-VF8GUAS1
+  mfg_date: '2023-04-01'
+  exp_date: '2025-04-01'
+  manufacturer: Horizon Medicos
+  drug_type: Inhaler
+  approval_id: SCH-FDA-9096
+  country: Canada
+  composition:
+  - Allopurinol 300mg
+clindamycin_277:
+  name: clindamycin
+  batch: TJ422871
+  serial: SN-G2B9IQIU
+  mfg_date: '2020-12-07'
+  exp_date: '2023-12-07'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Inhaler
+  approval_id: SCH-FDA-2404
+  country: France
+  composition:
+  - Clindamycin 50mg
+tadalafil_278:
+  name: tadalafil
+  batch: SS720032
+  serial: SN-6978V0BJ
+  mfg_date: '2020-06-23'
+  exp_date: '2025-06-23'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Drops
+  approval_id: SCH-FDA-5956
+  country: Germany
+  composition:
+  - Tadalafil 300mg
+salicylic_acid_279:
+  name: salicylic_acid
+  batch: GN981351
+  serial: SN-EBE5407K
+  mfg_date: '2021-03-18'
+  exp_date: '2023-03-18'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Cream
+  approval_id: SCH-FDA-5321
+  country: UK
+  composition:
+  - Salicylic Acid 250mg
+famotidine_280:
+  name: famotidine
+  batch: WR701202
+  serial: SN-ZP97BMZR
+  mfg_date: '2020-06-24'
+  exp_date: '2025-06-24'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Inhaler
+  approval_id: SCH-FDA-2843
+  country: China
+  composition:
+  - Famotidine 100mg
+clindamycin_281:
+  name: clindamycin
+  batch: TV562907
+  serial: SN-G7IRDLK9
+  mfg_date: '2021-02-07'
+  exp_date: '2025-02-07'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Capsule
+  approval_id: SCH-FDA-7458
+  country: UK
+  composition:
+  - Clindamycin 250mg
+lamotrigine_282:
+  name: lamotrigine
+  batch: VR495096
+  serial: SN-8L008UHB
+  mfg_date: '2019-06-05'
+  exp_date: '2021-06-05'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Cream
+  approval_id: SCH-FDA-6294
+  country: Japan
+  composition:
+  - Lamotrigine 50mg
+naltrexone_283:
+  name: naltrexone
+  batch: GG730234
+  serial: SN-X8FK2076
+  mfg_date: '2019-09-20'
+  exp_date: '2024-09-20'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Syrup
+  approval_id: SCH-FDA-6882
+  country: Italy
+  composition:
+  - Naltrexone 75mg
+furosemide_284:
+  name: furosemide
+  batch: GP043160
+  serial: SN-S9YXZ7SX
+  mfg_date: '2023-04-16'
+  exp_date: '2028-04-16'
+  manufacturer: Greenline Pharma
+  drug_type: Capsule
+  approval_id: SCH-FDA-5762
+  country: Japan
+  composition:
+  - Furosemide 40mg
+sildenafil_285:
+  name: sildenafil
+  batch: ZR324559
+  serial: SN-SSOQZ3MV
+  mfg_date: '2022-02-26'
+  exp_date: '2027-02-26'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Tablet
+  approval_id: SCH-FDA-2866
+  country: UK
+  composition:
+  - Sildenafil 50mg
+buprenorphine_286:
+  name: buprenorphine
+  batch: CW254662
+  serial: SN-85GG0V5D
+  mfg_date: '2024-08-06'
+  exp_date: '2027-08-06'
+  manufacturer: Greenline Pharma
+  drug_type: Tablet
+  approval_id: SCH-FDA-1095
+  country: India
+  composition:
+  - Buprenorphine 300mg
+ciprofloxacin_287:
+  name: ciprofloxacin
+  batch: WZ646936
+  serial: SN-YOKEAEA8
+  mfg_date: '2019-03-21'
+  exp_date: '2024-03-21'
+  manufacturer: VitaCrest Labs
+  drug_type: Tablet
+  approval_id: SCH-FDA-4428
+  country: Italy
+  composition:
+  - Ciprofloxacin 500mg
+finasteride_288:
+  name: finasteride
+  batch: WO071419
+  serial: SN-0QRAQIK3
+  mfg_date: '2024-03-21'
+  exp_date: '2027-03-21'
+  manufacturer: Greenline Pharma
+  drug_type: Drops
+  approval_id: SCH-FDA-1834
+  country: Canada
+  composition:
+  - Finasteride 250mg
+ibuprofen_289:
+  name: ibuprofen
+  batch: TP524456
+  serial: SN-Y3RZTPLC
+  mfg_date: '2019-11-28'
+  exp_date: '2024-11-28'
+  manufacturer: Greenline Pharma
+  drug_type: Drops
+  approval_id: SCH-FDA-8755
+  country: Japan
+  composition:
+  - Ibuprofen 400mg
+ciprofloxacin_290:
+  name: ciprofloxacin
+  batch: AH132293
+  serial: SN-V4XEKZ83
+  mfg_date: '2022-10-21'
+  exp_date: '2026-10-21'
+  manufacturer: VitaCrest Labs
+  drug_type: Ointment
+  approval_id: SCH-FDA-8738
+  country: Italy
+  composition:
+  - Ciprofloxacin 500mg
+tramadol_291:
+  name: tramadol
+  batch: DF614932
+  serial: SN-BA5MF36B
+  mfg_date: '2023-04-10'
+  exp_date: '2025-04-10'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Capsule
+  approval_id: SCH-FDA-6533
+  country: Japan
+  composition:
+  - Tramadol 50mg
+famotidine_292:
+  name: famotidine
+  batch: MZ777588
+  serial: SN-5VDB8281
+  mfg_date: '2019-10-08'
+  exp_date: '2021-10-08'
+  manufacturer: Horizon Medicos
+  drug_type: Capsule
+  approval_id: SCH-FDA-2669
+  country: Germany
+  composition:
+  - Famotidine 50mg
+bisoprolol_293:
+  name: bisoprolol
+  batch: EH457063
+  serial: SN-E4PO1I3M
+  mfg_date: '2019-03-21'
+  exp_date: '2021-03-21'
+  manufacturer: NovaMed Labs
+  drug_type: Syrup
+  approval_id: SCH-FDA-2396
+  country: Spain
+  composition:
+  - Bisoprolol 200mg
+furosemide_294:
+  name: furosemide
+  batch: KF844487
+  serial: SN-NBFA37DL
+  mfg_date: '2024-07-12'
+  exp_date: '2027-07-12'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Syrup
+  approval_id: SCH-FDA-8111
+  country: China
+  composition:
+  - Furosemide 40mg
+omeprazole_295:
+  name: omeprazole
+  batch: ZZ789487
+  serial: SN-5ZLM36VF
+  mfg_date: '2022-01-22'
+  exp_date: '2025-01-22'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Drops
+  approval_id: SCH-FDA-8310
+  country: India
+  composition:
+  - Omeprazole 20mg
+phenylephrine_296:
+  name: phenylephrine
+  batch: XU413037
+  serial: SN-0E9KDTS1
+  mfg_date: '2020-09-20'
+  exp_date: '2025-09-20'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Syrup
+  approval_id: SCH-FDA-1383
+  country: Spain
+  composition:
+  - Phenylephrine 50mg
+fluconazole_297:
+  name: fluconazole
+  batch: ZC036306
+  serial: SN-EK0Q929U
+  mfg_date: '2023-05-08'
+  exp_date: '2027-05-08'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Injection
+  approval_id: SCH-FDA-6739
+  country: Italy
+  composition:
+  - Fluconazole 200mg
+salbutamol_298:
+  name: salbutamol
+  batch: NG358307
+  serial: SN-3CC5RQNS
+  mfg_date: '2024-12-19'
+  exp_date: '2027-12-19'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Drops
+  approval_id: SCH-FDA-5320
+  country: Italy
+  composition:
+  - Salbutamol 500mg
+erythromycin_299:
+  name: erythromycin
+  batch: VD171781
+  serial: SN-HR07N8VO
+  mfg_date: '2022-08-23'
+  exp_date: '2027-08-23'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Capsule
+  approval_id: SCH-FDA-7055
+  country: Italy
+  composition:
+  - Erythromycin 200mg
+atorvastatin_300:
+  name: atorvastatin
+  batch: HM715088
+  serial: SN-H3REM5PU
+  mfg_date: '2023-03-04'
+  exp_date: '2027-03-04'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Inhaler
+  approval_id: SCH-FDA-6534
+  country: Spain
+  composition:
+  - Atorvastatin 10mg
+allopurinol_301:
+  name: allopurinol
+  batch: QT617066
+  serial: SN-N6MBYPJD
+  mfg_date: '2022-12-27'
+  exp_date: '2025-12-27'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Syrup
+  approval_id: SCH-FDA-1406
+  country: China
+  composition:
+  - Allopurinol 300mg
+levetiracetam_302:
+  name: levetiracetam
+  batch: CY579575
+  serial: SN-AXT8JH34
+  mfg_date: '2024-12-10'
+  exp_date: '2026-12-10'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Inhaler
+  approval_id: SCH-FDA-2386
+  country: China
+  composition:
+  - Levetiracetam 250mg
+alprazolam_303:
+  name: alprazolam
+  batch: EA530952
+  serial: SN-G1F8YC8G
+  mfg_date: '2023-01-16'
+  exp_date: '2025-01-16'
+  manufacturer: Apex Biotech
+  drug_type: Tablet
+  approval_id: SCH-FDA-5882
+  country: Italy
+  composition:
+  - Alprazolam 0.5mg
+colchicine_304:
+  name: colchicine
+  batch: JV127547
+  serial: SN-NECQOROI
+  mfg_date: '2019-06-05'
+  exp_date: '2024-06-05'
+  manufacturer: Apex Biotech
+  drug_type: Tablet
+  approval_id: SCH-FDA-5409
+  country: France
+  composition:
+  - Colchicine 75mg
+hydrochlorothiazide_305:
+  name: hydrochlorothiazide
+  batch: KC629397
+  serial: SN-TP6QAQ3K
+  mfg_date: '2023-11-26'
+  exp_date: '2026-11-26'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Syrup
+  approval_id: SCH-FDA-1008
+  country: Australia
+  composition:
+  - HCTZ 25mg
+omeprazole_306:
+  name: omeprazole
+  batch: ZV282150
+  serial: SN-DZ3095HS
+  mfg_date: '2022-05-20'
+  exp_date: '2026-05-20'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Ointment
+  approval_id: SCH-FDA-6613
+  country: Italy
+  composition:
+  - Omeprazole 20mg
+erythromycin_307:
+  name: erythromycin
+  batch: ZI450660
+  serial: SN-R6YO6Z1T
+  mfg_date: '2021-12-15'
+  exp_date: '2025-12-15'
+  manufacturer: NovaMed Labs
+  drug_type: Capsule
+  approval_id: SCH-FDA-9825
+  country: Canada
+  composition:
+  - Erythromycin 50mg
+salicylic_acid_308:
+  name: salicylic_acid
+  batch: JE760494
+  serial: SN-HAK7MDWK
+  mfg_date: '2022-11-04'
+  exp_date: '2026-11-04'
+  manufacturer: Greenline Pharma
+  drug_type: Injection
+  approval_id: SCH-FDA-4838
+  country: Australia
+  composition:
+  - Salicylic Acid 500mg
+loratadine_309:
+  name: loratadine
+  batch: ZQ125117
+  serial: SN-YVGV0E74
+  mfg_date: '2019-05-16'
+  exp_date: '2022-05-16'
+  manufacturer: Schleiden BioHealth
+  drug_type: Cream
+  approval_id: SCH-FDA-4143
+  country: Germany
+  composition:
+  - Loratadine 50mg
+mupirocin_310:
+  name: mupirocin
+  batch: WA466838
+  serial: SN-OESRSBZB
+  mfg_date: '2024-09-20'
+  exp_date: '2028-09-20'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Drops
+  approval_id: SCH-FDA-9723
+  country: China
+  composition:
+  - Mupirocin 500mg
+methylprednisolone_311:
+  name: methylprednisolone
+  batch: UZ269913
+  serial: SN-CWBPA274
+  mfg_date: '2019-07-07'
+  exp_date: '2023-07-07'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Injection
+  approval_id: SCH-FDA-2766
+  country: Australia
+  composition:
+  - Methylprednisolone 500mg
+lisinopril_312:
+  name: lisinopril
+  batch: YU676500
+  serial: SN-BL4CE7PK
+  mfg_date: '2021-01-27'
+  exp_date: '2025-01-27'
+  manufacturer: Horizon Medicos
+  drug_type: Drops
+  approval_id: SCH-FDA-2077
+  country: Germany
+  composition:
+  - Lisinopril 10mg
+fluoxetine_313:
+  name: fluoxetine
+  batch: KQ487644
+  serial: SN-PWDXYASV
+  mfg_date: '2024-01-18'
+  exp_date: '2026-01-18'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Capsule
+  approval_id: SCH-FDA-2682
+  country: Italy
+  composition:
+  - Fluoxetine 20mg
+ibuprofen_314:
+  name: ibuprofen
+  batch: QG474270
+  serial: SN-LP81L51F
+  mfg_date: '2023-12-03'
+  exp_date: '2026-12-03'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Cream
+  approval_id: SCH-FDA-6618
+  country: UK
+  composition:
+  - Ibuprofen 400mg
+budesonide_315:
+  name: budesonide
+  batch: NV841297
+  serial: SN-MYZ9VLU8
+  mfg_date: '2021-01-17'
+  exp_date: '2024-01-17'
+  manufacturer: Schleiden BioHealth
+  drug_type: Cream
+  approval_id: SCH-FDA-7859
+  country: Germany
+  composition:
+  - Budesonide 250mg
+tramadol_316:
+  name: tramadol
+  batch: XQ642478
+  serial: SN-3NO3AAMT
+  mfg_date: '2019-08-26'
+  exp_date: '2021-08-26'
+  manufacturer: VitaCrest Labs
+  drug_type: Syrup
+  approval_id: SCH-FDA-5760
+  country: Germany
+  composition:
+  - Tramadol 50mg
+insulin_glargine_317:
+  name: insulin_glargine
+  batch: FH221821
+  serial: SN-GJD3EX5M
+  mfg_date: '2020-11-19'
+  exp_date: '2024-11-19'
+  manufacturer: Schleiden BioHealth
+  drug_type: Injection
+  approval_id: SCH-FDA-5998
+  country: India
+  composition:
+  - Insulin Glargine 500mg
+lisinopril_318:
+  name: lisinopril
+  batch: WW019713
+  serial: SN-NV9IBWGT
+  mfg_date: '2021-06-22'
+  exp_date: '2024-06-22'
+  manufacturer: Horizon Medicos
+  drug_type: Syrup
+  approval_id: SCH-FDA-6368
+  country: Australia
+  composition:
+  - Lisinopril 10mg
+hydrochlorothiazide_319:
+  name: hydrochlorothiazide
+  batch: ZX204605
+  serial: SN-1XSRQLNZ
+  mfg_date: '2019-11-26'
+  exp_date: '2023-11-26'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Inhaler
+  approval_id: SCH-FDA-8762
+  country: China
+  composition:
+  - HCTZ 25mg
+metoprolol_320:
+  name: metoprolol
+  batch: XL224318
+  serial: SN-JD1KSIBS
+  mfg_date: '2023-07-21'
+  exp_date: '2025-07-21'
+  manufacturer: NovaMed Labs
+  drug_type: Ointment
+  approval_id: SCH-FDA-7981
+  country: Germany
+  composition:
+  - Metoprolol 500mg
+sildenafil_321:
+  name: sildenafil
+  batch: JE263085
+  serial: SN-X27DCBHH
+  mfg_date: '2022-07-12'
+  exp_date: '2027-07-12'
+  manufacturer: Apex Biotech
+  drug_type: Ointment
+  approval_id: SCH-FDA-5096
+  country: France
+  composition:
+  - Sildenafil 50mg
+montelukast_322:
+  name: montelukast
+  batch: ZZ779028
+  serial: SN-2OOUXQS1
+  mfg_date: '2024-11-28'
+  exp_date: '2028-11-28'
+  manufacturer: NovaMed Labs
+  drug_type: Syrup
+  approval_id: SCH-FDA-7512
+  country: Australia
+  composition:
+  - Montelukast 150mg
+insulin_323:
+  name: insulin
+  batch: PO483084
+  serial: SN-7PP4BF5L
+  mfg_date: '2024-12-07'
+  exp_date: '2029-12-07'
+  manufacturer: NovaMed Labs
+  drug_type: Tablet
+  approval_id: SCH-FDA-9188
+  country: China
+  composition:
+  - Insulin (variable)
+acetylcysteine_324:
+  name: acetylcysteine
+  batch: TT625501
+  serial: SN-99U26UON
+  mfg_date: '2021-06-08'
+  exp_date: '2026-06-08'
+  manufacturer: Greenline Pharma
+  drug_type: Drops
+  approval_id: SCH-FDA-2043
+  country: Canada
+  composition:
+  - Acetylcysteine 300mg
+escitalopram_325:
+  name: escitalopram
+  batch: CC506410
+  serial: SN-8KIXCCSG
+  mfg_date: '2022-02-11'
+  exp_date: '2027-02-11'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Drops
+  approval_id: SCH-FDA-7407
+  country: France
+  composition:
+  - Escitalopram 10mg
+tramadol_326:
+  name: tramadol
+  batch: KX283861
+  serial: SN-ULHZQH9Q
+  mfg_date: '2019-03-18'
+  exp_date: '2024-03-18'
+  manufacturer: VitaCrest Labs
+  drug_type: Drops
+  approval_id: SCH-FDA-5044
+  country: USA
+  composition:
+  - Tramadol 50mg
+amoxi_clav_327:
+  name: amoxi_clav
+  batch: BC693873
+  serial: SN-34OGWPNX
+  mfg_date: '2021-10-16'
+  exp_date: '2026-10-16'
+  manufacturer: VitaCrest Labs
+  drug_type: Capsule
+  approval_id: SCH-FDA-7447
+  country: Australia
+  composition:
+  - Amoxi Clav 50mg
+lisinopril_328:
+  name: lisinopril
+  batch: SS249590
+  serial: SN-D1LQJSQC
+  mfg_date: '2020-05-21'
+  exp_date: '2024-05-21'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Inhaler
+  approval_id: SCH-FDA-7244
+  country: USA
+  composition:
+  - Lisinopril 10mg
+ranitidine_329:
+  name: ranitidine
+  batch: AC937405
+  serial: SN-I8F34GAD
+  mfg_date: '2024-07-28'
+  exp_date: '2027-07-28'
+  manufacturer: Greenline Pharma
+  drug_type: Cream
+  approval_id: SCH-FDA-3034
+  country: India
+  composition:
+  - Ranitidine 300mg
+gabapentin_330:
+  name: gabapentin
+  batch: DJ206268
+  serial: SN-3XZ6OLBA
+  mfg_date: '2019-11-25'
+  exp_date: '2021-11-25'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Drops
+  approval_id: SCH-FDA-4305
+  country: France
+  composition:
+  - Gabapentin 300mg
+hydrochlorothiazide_331:
+  name: hydrochlorothiazide
+  batch: AA860908
+  serial: SN-X0BS3LWW
+  mfg_date: '2021-04-07'
+  exp_date: '2023-04-07'
+  manufacturer: Schleiden BioHealth
+  drug_type: Drops
+  approval_id: SCH-FDA-8010
+  country: Italy
+  composition:
+  - HCTZ 25mg
+clindamycin_332:
+  name: clindamycin
+  batch: AR022626
+  serial: SN-B5O1R9Z2
+  mfg_date: '2020-04-04'
+  exp_date: '2024-04-04'
+  manufacturer: Apex Biotech
+  drug_type: Syrup
+  approval_id: SCH-FDA-5127
+  country: UK
+  composition:
+  - Clindamycin 75mg
+topiramate_333:
+  name: topiramate
+  batch: IQ838436
+  serial: SN-VNXIV9IW
+  mfg_date: '2021-11-23'
+  exp_date: '2026-11-23'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Capsule
+  approval_id: SCH-FDA-6060
+  country: UK
+  composition:
+  - Topiramate 150mg
+buprenorphine_334:
+  name: buprenorphine
+  batch: JH120959
+  serial: SN-0LKX1S9X
+  mfg_date: '2022-04-20'
+  exp_date: '2024-04-20'
+  manufacturer: Schleiden BioHealth
+  drug_type: Cream
+  approval_id: SCH-FDA-1388
+  country: UK
+  composition:
+  - Buprenorphine 150mg
+morphine_335:
+  name: morphine
+  batch: XR267633
+  serial: SN-PA5CGWFH
+  mfg_date: '2021-06-08'
+  exp_date: '2024-06-08'
+  manufacturer: Horizon Medicos
+  drug_type: Capsule
+  approval_id: SCH-FDA-3845
+  country: India
+  composition:
+  - Morphine 150mg
+lisinopril_336:
+  name: lisinopril
+  batch: SG122462
+  serial: SN-2C9OGPS0
+  mfg_date: '2023-02-14'
+  exp_date: '2028-02-14'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Syrup
+  approval_id: SCH-FDA-8897
+  country: UK
+  composition:
+  - Lisinopril 10mg
+amoxicillin_337:
+  name: amoxicillin
+  batch: NO133254
+  serial: SN-LZH6A50N
+  mfg_date: '2022-07-28'
+  exp_date: '2024-07-28'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Drops
+  approval_id: SCH-FDA-7812
+  country: Australia
+  composition:
+  - Amoxicillin 500mg
+diazepam_338:
+  name: diazepam
+  batch: ZB891917
+  serial: SN-811MZWNC
+  mfg_date: '2024-06-13'
+  exp_date: '2029-06-13'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Drops
+  approval_id: SCH-FDA-7947
+  country: Canada
+  composition:
+  - Diazepam 5mg
+buprenorphine_339:
+  name: buprenorphine
+  batch: SA616912
+  serial: SN-UXFEDZNZ
+  mfg_date: '2020-04-16'
+  exp_date: '2022-04-16'
+  manufacturer: Apex Biotech
+  drug_type: Capsule
+  approval_id: SCH-FDA-9495
+  country: Canada
+  composition:
+  - Buprenorphine 150mg
+esomeprazole_340:
+  name: esomeprazole
+  batch: RJ348706
+  serial: SN-1MF07OL9
+  mfg_date: '2020-07-09'
+  exp_date: '2024-07-09'
+  manufacturer: Horizon Medicos
+  drug_type: Inhaler
+  approval_id: SCH-FDA-1025
+  country: China
+  composition:
+  - Esomeprazole 20mg
+sertraline_341:
+  name: sertraline
+  batch: TE371194
+  serial: SN-3GCG1J6O
+  mfg_date: '2019-12-14'
+  exp_date: '2024-12-14'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Capsule
+  approval_id: SCH-FDA-3721
+  country: France
+  composition:
+  - Sertraline 50mg
+simvastatin_342:
+  name: simvastatin
+  batch: IP461070
+  serial: SN-U9DSAV91
+  mfg_date: '2021-02-13'
+  exp_date: '2023-02-13'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Inhaler
+  approval_id: SCH-FDA-8753
+  country: USA
+  composition:
+  - Simvastatin 20mg
+ondansetron_o_343:
+  name: ondansetron_o
+  batch: XZ896303
+  serial: SN-LDQZ05EV
+  mfg_date: '2021-10-14'
+  exp_date: '2025-10-14'
+  manufacturer: Apex Biotech
+  drug_type: Cream
+  approval_id: SCH-FDA-5072
+  country: Canada
+  composition:
+  - Ondansetron O 250mg
+methotrexate_344:
+  name: methotrexate
+  batch: RA693689
+  serial: SN-0YIR02M7
+  mfg_date: '2023-11-22'
+  exp_date: '2028-11-22'
+  manufacturer: Horizon Medicos
+  drug_type: Inhaler
+  approval_id: SCH-FDA-2645
+  country: Italy
+  composition:
+  - Methotrexate 300mg
+budesonide_345:
+  name: budesonide
+  batch: US040899
+  serial: SN-Q68RTIG7
+  mfg_date: '2023-04-23'
+  exp_date: '2026-04-23'
+  manufacturer: Horizon Medicos
+  drug_type: Capsule
+  approval_id: SCH-FDA-2728
+  country: Australia
+  composition:
+  - Budesonide 300mg
+oxycodone_346:
+  name: oxycodone
+  batch: SR966964
+  serial: SN-2LIU7CM6
+  mfg_date: '2019-03-11'
+  exp_date: '2024-03-11'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Drops
+  approval_id: SCH-FDA-8159
+  country: Germany
+  composition:
+  - Oxycodone 150mg
+heparin_347:
+  name: heparin
+  batch: IP195133
+  serial: SN-0LVGNP12
+  mfg_date: '2021-02-10'
+  exp_date: '2023-02-10'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Syrup
+  approval_id: SCH-FDA-9515
+  country: USA
+  composition:
+  - Heparin 150mg
+fluoxetine_348:
+  name: fluoxetine
+  batch: VH261278
+  serial: SN-3BLSYJ4U
+  mfg_date: '2022-01-18'
+  exp_date: '2027-01-18'
+  manufacturer: Apex Biotech
+  drug_type: Injection
+  approval_id: SCH-FDA-9110
+  country: UK
+  composition:
+  - Fluoxetine 20mg
+budesonide_349:
+  name: budesonide
+  batch: WY279787
+  serial: SN-K36FAOPR
+  mfg_date: '2024-07-02'
+  exp_date: '2028-07-02'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Ointment
+  approval_id: SCH-FDA-7412
+  country: Germany
+  composition:
+  - Budesonide 300mg
+levothyroxine_350:
+  name: levothyroxine
+  batch: SO037809
+  serial: SN-KXUPR6H2
+  mfg_date: '2023-12-10'
+  exp_date: '2027-12-10'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Injection
+  approval_id: SCH-FDA-1149
+  country: Germany
+  composition:
+  - Levothyroxine 50mcg
+loratadine_351:
+  name: loratadine
+  batch: RE034915
+  serial: SN-MPF0IEOK
+  mfg_date: '2024-10-04'
+  exp_date: '2027-10-04'
+  manufacturer: Greenline Pharma
+  drug_type: Syrup
+  approval_id: SCH-FDA-7150
+  country: Italy
+  composition:
+  - Loratadine 75mg
+sildenafil_352:
+  name: sildenafil
+  batch: DC465055
+  serial: SN-J02GRXPU
+  mfg_date: '2024-07-09'
+  exp_date: '2029-07-09'
+  manufacturer: Apex Biotech
+  drug_type: Capsule
+  approval_id: SCH-FDA-6328
+  country: India
+  composition:
+  - Sildenafil 50mg
+losartan_353:
+  name: losartan
+  batch: KV750858
+  serial: SN-X1HXE5ZA
+  mfg_date: '2024-09-06'
+  exp_date: '2029-09-06'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Inhaler
+  approval_id: SCH-FDA-6149
+  country: India
+  composition:
+  - Losartan 50mg
+clindamycin_354:
+  name: clindamycin
+  batch: CG701291
+  serial: SN-9XIB86KT
+  mfg_date: '2019-03-19'
+  exp_date: '2022-03-19'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Syrup
+  approval_id: SCH-FDA-9035
+  country: UK
+  composition:
+  - Clindamycin 250mg
+omep_plus_355:
+  name: omep_plus
+  batch: RB018215
+  serial: SN-VJ0PTJXF
+  mfg_date: '2021-10-18'
+  exp_date: '2024-10-18'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Inhaler
+  approval_id: SCH-FDA-2364
+  country: USA
+  composition:
+  - Omep Plus 200mg
+benzoyl_peroxide_356:
+  name: benzoyl_peroxide
+  batch: TZ613686
+  serial: SN-PF9PAVCE
+  mfg_date: '2022-12-05'
+  exp_date: '2025-12-05'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Capsule
+  approval_id: SCH-FDA-9984
+  country: Canada
+  composition:
+  - Benzoyl Peroxide 300mg
+losartan_357:
+  name: losartan
+  batch: DU209297
+  serial: SN-ES5V3DMU
+  mfg_date: '2021-11-03'
+  exp_date: '2025-11-03'
+  manufacturer: Apex Biotech
+  drug_type: Cream
+  approval_id: SCH-FDA-5440
+  country: France
+  composition:
+  - Losartan 50mg
+metronidazole_358:
+  name: metronidazole
+  batch: IT955841
+  serial: SN-ASFEN0B0
+  mfg_date: '2019-01-06'
+  exp_date: '2023-01-06'
+  manufacturer: Greenline Pharma
+  drug_type: Ointment
+  approval_id: SCH-FDA-5081
+  country: UK
+  composition:
+  - Metronidazole 300mg
+gentamicin_359:
+  name: gentamicin
+  batch: HY579260
+  serial: SN-L14WCIDU
+  mfg_date: '2022-03-15'
+  exp_date: '2026-03-15'
+  manufacturer: VitaCrest Labs
+  drug_type: Capsule
+  approval_id: SCH-FDA-5683
+  country: China
+  composition:
+  - Gentamicin 500mg
+ibuprofen_360:
+  name: ibuprofen
+  batch: NZ864697
+  serial: SN-ZZ0I0835
+  mfg_date: '2022-11-17'
+  exp_date: '2025-11-17'
+  manufacturer: VitaCrest Labs
+  drug_type: Tablet
+  approval_id: SCH-FDA-8350
+  country: Japan
+  composition:
+  - Ibuprofen 400mg
+gabapentin_361:
+  name: gabapentin
+  batch: VN943319
+  serial: SN-IT1EKKH0
+  mfg_date: '2024-09-08'
+  exp_date: '2027-09-08'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Drops
+  approval_id: SCH-FDA-4562
+  country: Spain
+  composition:
+  - Gabapentin 300mg
+tiotropium_362:
+  name: tiotropium
+  batch: WB042137
+  serial: SN-OAPHT6O6
+  mfg_date: '2024-09-27'
+  exp_date: '2026-09-27'
+  manufacturer: VitaCrest Labs
+  drug_type: Tablet
+  approval_id: SCH-FDA-3549
+  country: Australia
+  composition:
+  - Tiotropium 200mg
+heparin_363:
+  name: heparin
+  batch: XN296417
+  serial: SN-A5ZDKEPL
+  mfg_date: '2022-07-12'
+  exp_date: '2026-07-12'
+  manufacturer: Apex Biotech
+  drug_type: Tablet
+  approval_id: SCH-FDA-3626
+  country: Italy
+  composition:
+  - Heparin 150mg
+finasteride_364:
+  name: finasteride
+  batch: MR177377
+  serial: SN-3E82EMAY
+  mfg_date: '2024-05-04'
+  exp_date: '2029-05-04'
+  manufacturer: VitaCrest Labs
+  drug_type: Tablet
+  approval_id: SCH-FDA-6605
+  country: China
+  composition:
+  - Finasteride 300mg
+topiramate_365:
+  name: topiramate
+  batch: MT215278
+  serial: SN-9I3HZ3ZS
+  mfg_date: '2024-01-14'
+  exp_date: '2029-01-14'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Syrup
+  approval_id: SCH-FDA-4091
+  country: France
+  composition:
+  - Topiramate 100mg
+insulin_366:
+  name: insulin
+  batch: YL600436
+  serial: SN-IMRSXKJK
+  mfg_date: '2019-03-13'
+  exp_date: '2021-03-13'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Ointment
+  approval_id: SCH-FDA-7849
+  country: Germany
+  composition:
+  - Insulin (variable)
+hydrochlorothiazide_367:
+  name: hydrochlorothiazide
+  batch: RI226424
+  serial: SN-MEYY1EM3
+  mfg_date: '2021-01-06'
+  exp_date: '2023-01-06'
+  manufacturer: Schleiden BioHealth
+  drug_type: Ointment
+  approval_id: SCH-FDA-4903
+  country: India
+  composition:
+  - HCTZ 25mg
+pseudoephedrine_368:
+  name: pseudoephedrine
+  batch: DT159617
+  serial: SN-7CTM09HZ
+  mfg_date: '2021-04-19'
+  exp_date: '2026-04-19'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Tablet
+  approval_id: SCH-FDA-3094
+  country: USA
+  composition:
+  - Pseudoephedrine 150mg
+zolpidem_369:
+  name: zolpidem
+  batch: QD445971
+  serial: SN-J8K8C9G3
+  mfg_date: '2023-12-09'
+  exp_date: '2027-12-09'
+  manufacturer: Apex Biotech
+  drug_type: Inhaler
+  approval_id: SCH-FDA-9723
+  country: Japan
+  composition:
+  - Zolpidem 10mg
+atorva_plus_370:
+  name: atorva_plus
+  batch: KH112687
+  serial: SN-QZSKHZTG
+  mfg_date: '2019-03-15'
+  exp_date: '2024-03-15'
+  manufacturer: Horizon Medicos
+  drug_type: Tablet
+  approval_id: SCH-FDA-9741
+  country: Italy
+  composition:
+  - Atorva Plus 150mg
+budesonide_371:
+  name: budesonide
+  batch: WB992166
+  serial: SN-8L85JE6K
+  mfg_date: '2019-11-05'
+  exp_date: '2023-11-05'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Tablet
+  approval_id: SCH-FDA-1170
+  country: France
+  composition:
+  - Budesonide 250mg
+heparin_372:
+  name: heparin
+  batch: RW957692
+  serial: SN-WVHPLHW4
+  mfg_date: '2024-05-06'
+  exp_date: '2028-05-06'
+  manufacturer: Schleiden BioHealth
+  drug_type: Drops
+  approval_id: SCH-FDA-3550
+  country: China
+  composition:
+  - Heparin 500mg
+insulin_373:
+  name: insulin
+  batch: CE181476
+  serial: SN-AFGOVCCI
+  mfg_date: '2024-12-14'
+  exp_date: '2028-12-14'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Drops
+  approval_id: SCH-FDA-2642
+  country: Japan
+  composition:
+  - Insulin (variable)
+codeine_374:
+  name: codeine
+  batch: JA876020
+  serial: SN-FWA88D0M
+  mfg_date: '2023-03-24'
+  exp_date: '2025-03-24'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Capsule
+  approval_id: SCH-FDA-4314
+  country: USA
+  composition:
+  - Codeine 100mg
+finasteride_375:
+  name: finasteride
+  batch: MG525005
+  serial: SN-D5OAIINM
+  mfg_date: '2023-08-27'
+  exp_date: '2026-08-27'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Cream
+  approval_id: SCH-FDA-4700
+  country: Spain
+  composition:
+  - Finasteride 300mg
+hydrocortisone_376:
+  name: hydrocortisone
+  batch: CY361998
+  serial: SN-VGTVYFYK
+  mfg_date: '2024-02-16'
+  exp_date: '2027-02-16'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Cream
+  approval_id: SCH-FDA-6707
+  country: Germany
+  composition:
+  - Hydrocortisone 75mg
+metoprolol_377:
+  name: metoprolol
+  batch: UW971147
+  serial: SN-93EP0FLE
+  mfg_date: '2022-11-12'
+  exp_date: '2026-11-12'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Drops
+  approval_id: SCH-FDA-6777
+  country: USA
+  composition:
+  - Metoprolol 250mg
+prednisolone_378:
+  name: prednisolone
+  batch: IU624455
+  serial: SN-3NUPUY0Z
+  mfg_date: '2022-08-23'
+  exp_date: '2027-08-23'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Injection
+  approval_id: SCH-FDA-6926
+  country: Canada
+  composition:
+  - Prednisolone 50mg
+warfarin_379:
+  name: warfarin
+  batch: BJ888218
+  serial: SN-86I3CE8Z
+  mfg_date: '2019-06-18'
+  exp_date: '2024-06-18'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Drops
+  approval_id: SCH-FDA-1431
+  country: USA
+  composition:
+  - Warfarin 5mg
+neomycin_380:
+  name: neomycin
+  batch: BV803005
+  serial: SN-3FG00ZKO
+  mfg_date: '2022-06-02'
+  exp_date: '2024-06-02'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Ointment
+  approval_id: SCH-FDA-8274
+  country: Australia
+  composition:
+  - Neomycin 50mg
+salbutamol_381:
+  name: salbutamol
+  batch: NA868589
+  serial: SN-SZPF9S9E
+  mfg_date: '2019-03-02'
+  exp_date: '2021-03-02'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Injection
+  approval_id: SCH-FDA-7560
+  country: UK
+  composition:
+  - Salbutamol 50mg
+heparin_382:
+  name: heparin
+  batch: MQ430342
+  serial: SN-DN2MIFDH
+  mfg_date: '2022-03-27'
+  exp_date: '2024-03-27'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Tablet
+  approval_id: SCH-FDA-6064
+  country: Japan
+  composition:
+  - Heparin 150mg
+ketoconazole_383:
+  name: ketoconazole
+  batch: ZO570390
+  serial: SN-MKOH109Z
+  mfg_date: '2020-11-02'
+  exp_date: '2023-11-02'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Capsule
+  approval_id: SCH-FDA-6428
+  country: USA
+  composition:
+  - Ketoconazole 300mg
+buprenorphine_384:
+  name: buprenorphine
+  batch: UM801606
+  serial: SN-8IHYFZ9S
+  mfg_date: '2023-02-17'
+  exp_date: '2026-02-17'
+  manufacturer: Schleiden BioHealth
+  drug_type: Ointment
+  approval_id: SCH-FDA-8331
+  country: Australia
+  composition:
+  - Buprenorphine 100mg
+ranitidine_385:
+  name: ranitidine
+  batch: KF601648
+  serial: SN-F5T82DDL
+  mfg_date: '2021-06-20'
+  exp_date: '2026-06-20'
+  manufacturer: Schleiden BioHealth
+  drug_type: Cream
+  approval_id: SCH-FDA-3645
+  country: Canada
+  composition:
+  - Ranitidine 75mg
+carvedilol_386:
+  name: carvedilol
+  batch: SL997499
+  serial: SN-8RNKOWYP
+  mfg_date: '2023-06-12'
+  exp_date: '2025-06-12'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Ointment
+  approval_id: SCH-FDA-7122
+  country: UK
+  composition:
+  - Carvedilol 75mg
+hydrocortisone_387:
+  name: hydrocortisone
+  batch: QQ728082
+  serial: SN-FOCNQDQX
+  mfg_date: '2022-09-15'
+  exp_date: '2026-09-15'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Inhaler
+  approval_id: SCH-FDA-2787
+  country: India
+  composition:
+  - Hydrocortisone 75mg
+venlafaxine_388:
+  name: venlafaxine
+  batch: II947420
+  serial: SN-FQXLBVN7
+  mfg_date: '2024-02-13'
+  exp_date: '2029-02-13'
+  manufacturer: NovaMed Labs
+  drug_type: Ointment
+  approval_id: SCH-FDA-8046
+  country: Italy
+  composition:
+  - Venlafaxine 75mg
+tadalafil_389:
+  name: tadalafil
+  batch: HQ004278
+  serial: SN-SYJ3D6M1
+  mfg_date: '2020-01-07'
+  exp_date: '2022-01-07'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Syrup
+  approval_id: SCH-FDA-4253
+  country: Italy
+  composition:
+  - Tadalafil 250mg
+zolpidem_390:
+  name: zolpidem
+  batch: JS307506
+  serial: SN-WL9700LF
+  mfg_date: '2022-08-18'
+  exp_date: '2025-08-18'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Inhaler
+  approval_id: SCH-FDA-3416
+  country: Italy
+  composition:
+  - Zolpidem 10mg
+prednisolone_391:
+  name: prednisolone
+  batch: SZ986650
+  serial: SN-0GZ1VHHG
+  mfg_date: '2021-02-26'
+  exp_date: '2026-02-26'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Tablet
+  approval_id: SCH-FDA-7066
+  country: China
+  composition:
+  - Prednisolone 250mg
+amoxicillin_392:
+  name: amoxicillin
+  batch: QL435571
+  serial: SN-GPGVTN4Y
+  mfg_date: '2021-05-17'
+  exp_date: '2023-05-17'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Drops
+  approval_id: SCH-FDA-5640
+  country: Japan
+  composition:
+  - Amoxicillin 500mg
+neomycin_393:
+  name: neomycin
+  batch: AY176565
+  serial: SN-3Y4H1TE4
+  mfg_date: '2023-02-03'
+  exp_date: '2025-02-03'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Capsule
+  approval_id: SCH-FDA-6744
+  country: Canada
+  composition:
+  - Neomycin 500mg
+lorazepam_394:
+  name: lorazepam
+  batch: UN263996
+  serial: SN-A6BA24S0
+  mfg_date: '2024-12-26'
+  exp_date: '2029-12-26'
+  manufacturer: Schleiden BioHealth
+  drug_type: Ointment
+  approval_id: SCH-FDA-6490
+  country: Spain
+  composition:
+  - Lorazepam 100mg
+levetiracetam_395:
+  name: levetiracetam
+  batch: QV851691
+  serial: SN-6SPD2SW2
+  mfg_date: '2022-04-18'
+  exp_date: '2027-04-18'
+  manufacturer: NovaMed Labs
+  drug_type: Cream
+  approval_id: SCH-FDA-3605
+  country: Australia
+  composition:
+  - Levetiracetam 250mg
+warfarin_396:
+  name: warfarin
+  batch: UD659507
+  serial: SN-9W1GXHG4
+  mfg_date: '2019-02-01'
+  exp_date: '2024-02-01'
+  manufacturer: Schleiden BioHealth
+  drug_type: Drops
+  approval_id: SCH-FDA-5267
+  country: Canada
+  composition:
+  - Warfarin 5mg
+acetylcysteine_397:
+  name: acetylcysteine
+  batch: QP145128
+  serial: SN-DRN4ORAC
+  mfg_date: '2019-05-03'
+  exp_date: '2022-05-03'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Capsule
+  approval_id: SCH-FDA-4445
+  country: India
+  composition:
+  - Acetylcysteine 300mg
+allopurinol_398:
+  name: allopurinol
+  batch: AE560994
+  serial: SN-WTF07GBA
+  mfg_date: '2021-11-15'
+  exp_date: '2024-11-15'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Syrup
+  approval_id: SCH-FDA-4543
+  country: France
+  composition:
+  - Allopurinol 300mg
+loratadine_399:
+  name: loratadine
+  batch: CR121076
+  serial: SN-Q3P87JH4
+  mfg_date: '2019-04-01'
+  exp_date: '2023-04-01'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Cream
+  approval_id: SCH-FDA-7436
+  country: Germany
+  composition:
+  - Loratadine 75mg
+valproate_400:
+  name: valproate
+  batch: LL523131
+  serial: SN-M63Q68JO
+  mfg_date: '2023-05-06'
+  exp_date: '2026-05-06'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Ointment
+  approval_id: SCH-FDA-7525
+  country: Japan
+  composition:
+  - Valproate 50mg
+ciprofloxacin_401:
+  name: ciprofloxacin
+  batch: BR371303
+  serial: SN-Q26UNVSD
+  mfg_date: '2020-06-14'
+  exp_date: '2023-06-14'
+  manufacturer: Apex Biotech
+  drug_type: Cream
+  approval_id: SCH-FDA-2225
+  country: Germany
+  composition:
+  - Ciprofloxacin 500mg
+levetiracetam_402:
+  name: levetiracetam
+  batch: FB402146
+  serial: SN-VIAA2UAQ
+  mfg_date: '2024-07-22'
+  exp_date: '2029-07-22'
+  manufacturer: Apex Biotech
+  drug_type: Syrup
+  approval_id: SCH-FDA-7599
+  country: Spain
+  composition:
+  - Levetiracetam 50mg
+clarithromycin_403:
+  name: clarithromycin
+  batch: CU727453
+  serial: SN-WOZQ48EN
+  mfg_date: '2023-01-11'
+  exp_date: '2025-01-11'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Capsule
+  approval_id: SCH-FDA-1479
+  country: Japan
+  composition:
+  - Clarithromycin 150mg
+amlodipine_404:
+  name: amlodipine
+  batch: FC788506
+  serial: SN-B5BBKJY2
+  mfg_date: '2019-03-04'
+  exp_date: '2023-03-04'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Drops
+  approval_id: SCH-FDA-5422
+  country: Italy
+  composition:
+  - Amlodipine 5mg
+neomycin_405:
+  name: neomycin
+  batch: ID588665
+  serial: SN-IRRK1RD1
+  mfg_date: '2020-03-19'
+  exp_date: '2025-03-19'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Capsule
+  approval_id: SCH-FDA-6783
+  country: UK
+  composition:
+  - Neomycin 150mg
+acetylcysteine_406:
+  name: acetylcysteine
+  batch: BM264343
+  serial: SN-31SL7ZX4
+  mfg_date: '2024-12-28'
+  exp_date: '2027-12-28'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Capsule
+  approval_id: SCH-FDA-3130
+  country: USA
+  composition:
+  - Acetylcysteine 150mg
+loratadine_407:
+  name: loratadine
+  batch: BL695141
+  serial: SN-DAQJRTME
+  mfg_date: '2022-08-28'
+  exp_date: '2025-08-28'
+  manufacturer: Greenline Pharma
+  drug_type: Capsule
+  approval_id: SCH-FDA-6806
+  country: Germany
+  composition:
+  - Loratadine 300mg
+rivaroxaban_408:
+  name: rivaroxaban
+  batch: BH067424
+  serial: SN-VTRPYX8H
+  mfg_date: '2020-07-17'
+  exp_date: '2025-07-17'
+  manufacturer: Horizon Medicos
+  drug_type: Tablet
+  approval_id: SCH-FDA-1584
+  country: Spain
+  composition:
+  - Rivaroxaban 200mg
+lisinopril_409:
+  name: lisinopril
+  batch: SK328641
+  serial: SN-HWZKAG6W
+  mfg_date: '2019-09-04'
+  exp_date: '2023-09-04'
+  manufacturer: NovaMed Labs
+  drug_type: Cream
+  approval_id: SCH-FDA-4909
+  country: Australia
+  composition:
+  - Lisinopril 10mg
+gabapentin_410:
+  name: gabapentin
+  batch: XD043120
+  serial: SN-Y4V8URID
+  mfg_date: '2021-11-03'
+  exp_date: '2024-11-03'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Tablet
+  approval_id: SCH-FDA-5762
+  country: Spain
+  composition:
+  - Gabapentin 300mg
+insulin_411:
+  name: insulin
+  batch: HT479243
+  serial: SN-AMZ6146V
+  mfg_date: '2023-09-06'
+  exp_date: '2026-09-06'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Capsule
+  approval_id: SCH-FDA-5422
+  country: USA
+  composition:
+  - Insulin (variable)
+hydrocortisone_412:
+  name: hydrocortisone
+  batch: WR142793
+  serial: SN-0G8W85Y6
+  mfg_date: '2023-12-21'
+  exp_date: '2025-12-21'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Inhaler
+  approval_id: SCH-FDA-9632
+  country: Italy
+  composition:
+  - Hydrocortisone 100mg
+propranolol_413:
+  name: propranolol
+  batch: YH157817
+  serial: SN-U2MDA7FY
+  mfg_date: '2024-06-11'
+  exp_date: '2029-06-11'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Cream
+  approval_id: SCH-FDA-3664
+  country: Italy
+  composition:
+  - Propranolol 200mg
+dutasteride_414:
+  name: dutasteride
+  batch: BH503460
+  serial: SN-JMK4X1FD
+  mfg_date: '2021-02-26'
+  exp_date: '2025-02-26'
+  manufacturer: Schleiden BioHealth
+  drug_type: Cream
+  approval_id: SCH-FDA-3337
+  country: Japan
+  composition:
+  - Dutasteride 150mg
+famotidine_415:
+  name: famotidine
+  batch: YG633989
+  serial: SN-VGP52F1J
+  mfg_date: '2023-02-10'
+  exp_date: '2026-02-10'
+  manufacturer: Schleiden BioHealth
+  drug_type: Drops
+  approval_id: SCH-FDA-4268
+  country: Japan
+  composition:
+  - Famotidine 200mg
+tiotropium_416:
+  name: tiotropium
+  batch: JW414397
+  serial: SN-QPPOAU8P
+  mfg_date: '2019-05-19'
+  exp_date: '2024-05-19'
+  manufacturer: Horizon Medicos
+  drug_type: Syrup
+  approval_id: SCH-FDA-5954
+  country: UK
+  composition:
+  - Tiotropium 150mg
+valproate_417:
+  name: valproate
+  batch: DR475802
+  serial: SN-9DV3UY5E
+  mfg_date: '2023-06-05'
+  exp_date: '2027-06-05'
+  manufacturer: Schleiden BioHealth
+  drug_type: Tablet
+  approval_id: SCH-FDA-4359
+  country: Italy
+  composition:
+  - Valproate 100mg
+clotrimazole_418:
+  name: clotrimazole
+  batch: WH390461
+  serial: SN-AVEDHR3P
+  mfg_date: '2024-08-05'
+  exp_date: '2027-08-05'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Tablet
+  approval_id: SCH-FDA-2995
+  country: Canada
+  composition:
+  - Clotrimazole 200mg
+alprazolam_419:
+  name: alprazolam
+  batch: VR864618
+  serial: SN-XG0TRKY8
+  mfg_date: '2022-03-27'
+  exp_date: '2025-03-27'
+  manufacturer: Horizon Medicos
+  drug_type: Inhaler
+  approval_id: SCH-FDA-7018
+  country: France
+  composition:
+  - Alprazolam 0.5mg
+salicylic_acid_420:
+  name: salicylic_acid
+  batch: VD213506
+  serial: SN-XQ6MF5QA
+  mfg_date: '2021-07-13'
+  exp_date: '2023-07-13'
+  manufacturer: VitaCrest Labs
+  drug_type: Syrup
+  approval_id: SCH-FDA-6861
+  country: Italy
+  composition:
+  - Salicylic Acid 150mg
+levocetirizine_421:
+  name: levocetirizine
+  batch: DR548176
+  serial: SN-7C4R8VGZ
+  mfg_date: '2024-09-13'
+  exp_date: '2026-09-13'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Cream
+  approval_id: SCH-FDA-3120
+  country: Canada
+  composition:
+  - Levocetirizine 250mg
+lamotrigine_422:
+  name: lamotrigine
+  batch: AT264632
+  serial: SN-172D50N9
+  mfg_date: '2023-06-19'
+  exp_date: '2028-06-19'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Capsule
+  approval_id: SCH-FDA-2014
+  country: India
+  composition:
+  - Lamotrigine 200mg
+ciprofloxacin_423:
+  name: ciprofloxacin
+  batch: QA114165
+  serial: SN-HRYI0PT2
+  mfg_date: '2019-12-03'
+  exp_date: '2024-12-03'
+  manufacturer: Apex Biotech
+  drug_type: Capsule
+  approval_id: SCH-FDA-1397
+  country: Australia
+  composition:
+  - Ciprofloxacin 500mg
+sulfamethoxazole_424:
+  name: sulfamethoxazole
+  batch: JK501796
+  serial: SN-R3URMWUE
+  mfg_date: '2024-02-07'
+  exp_date: '2026-02-07'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Capsule
+  approval_id: SCH-FDA-8190
+  country: India
+  composition:
+  - Sulfamethoxazole 300mg
+sulfamethoxazole_425:
+  name: sulfamethoxazole
+  batch: HD263299
+  serial: SN-JZC58CU4
+  mfg_date: '2022-02-19'
+  exp_date: '2024-02-19'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Cream
+  approval_id: SCH-FDA-7540
+  country: China
+  composition:
+  - Sulfamethoxazole 50mg
+fluconazole_426:
+  name: fluconazole
+  batch: AI237157
+  serial: SN-7X5IC86Z
+  mfg_date: '2024-02-19'
+  exp_date: '2029-02-19'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Tablet
+  approval_id: SCH-FDA-6666
+  country: Canada
+  composition:
+  - Fluconazole 75mg
+zolpidem_427:
+  name: zolpidem
+  batch: YH005643
+  serial: SN-48AB13T4
+  mfg_date: '2023-12-20'
+  exp_date: '2025-12-20'
+  manufacturer: Horizon Medicos
+  drug_type: Tablet
+  approval_id: SCH-FDA-8899
+  country: Japan
+  composition:
+  - Zolpidem 10mg
+amlodipine_428:
+  name: amlodipine
+  batch: OD169339
+  serial: SN-IDAO13TB
+  mfg_date: '2022-07-23'
+  exp_date: '2025-07-23'
+  manufacturer: Greenline Pharma
+  drug_type: Tablet
+  approval_id: SCH-FDA-5094
+  country: Italy
+  composition:
+  - Amlodipine 5mg
+omeprazole_429:
+  name: omeprazole
+  batch: BJ622641
+  serial: SN-CJTR0M6H
+  mfg_date: '2019-01-05'
+  exp_date: '2024-01-05'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Cream
+  approval_id: SCH-FDA-7011
+  country: France
+  composition:
+  - Omeprazole 20mg
+ketoconazole_430:
+  name: ketoconazole
+  batch: NB976221
+  serial: SN-9I0HN3F9
+  mfg_date: '2021-11-08'
+  exp_date: '2025-11-08'
+  manufacturer: Apex Biotech
+  drug_type: Inhaler
+  approval_id: SCH-FDA-8434
+  country: China
+  composition:
+  - Ketoconazole 75mg
+amoxicillin_431:
+  name: amoxicillin
+  batch: HZ083034
+  serial: SN-INXTXB17
+  mfg_date: '2022-01-09'
+  exp_date: '2026-01-09'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Ointment
+  approval_id: SCH-FDA-5301
+  country: Italy
+  composition:
+  - Amoxicillin 500mg
+ondansetron_o_432:
+  name: ondansetron_o
+  batch: LL770137
+  serial: SN-Y47QUUSF
+  mfg_date: '2023-04-25'
+  exp_date: '2025-04-25'
+  manufacturer: Apex Biotech
+  drug_type: Drops
+  approval_id: SCH-FDA-8656
+  country: Australia
+  composition:
+  - Ondansetron O 150mg
+cephalexin_433:
+  name: cephalexin
+  batch: UH502226
+  serial: SN-1ALX44PA
+  mfg_date: '2019-05-26'
+  exp_date: '2023-05-26'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Tablet
+  approval_id: SCH-FDA-8642
+  country: Germany
+  composition:
+  - Cephalexin 50mg
+cetirizine_434:
+  name: cetirizine
+  batch: PC859427
+  serial: SN-JRIG5XIX
+  mfg_date: '2022-11-28'
+  exp_date: '2025-11-28'
+  manufacturer: Greenline Pharma
+  drug_type: Syrup
+  approval_id: SCH-FDA-9302
+  country: India
+  composition:
+  - Cetirizine 500mg
+valproate_435:
+  name: valproate
+  batch: ZA885021
+  serial: SN-SECHU3YC
+  mfg_date: '2021-01-18'
+  exp_date: '2024-01-18'
+  manufacturer: Schleiden BioHealth
+  drug_type: Drops
+  approval_id: SCH-FDA-5638
+  country: France
+  composition:
+  - Valproate 100mg
+azithromycin_436:
+  name: azithromycin
+  batch: XJ920321
+  serial: SN-VDHLZ02Z
+  mfg_date: '2021-10-26'
+  exp_date: '2025-10-26'
+  manufacturer: Apex Biotech
+  drug_type: Injection
+  approval_id: SCH-FDA-7206
+  country: Italy
+  composition:
+  - Azithromycin 250mg
+valproate_437:
+  name: valproate
+  batch: CC925554
+  serial: SN-04SBRSPJ
+  mfg_date: '2019-11-24'
+  exp_date: '2022-11-24'
+  manufacturer: Greenline Pharma
+  drug_type: Cream
+  approval_id: SCH-FDA-4998
+  country: Canada
+  composition:
+  - Valproate 250mg
+hydrochlorothiazide_438:
+  name: hydrochlorothiazide
+  batch: SL940503
+  serial: SN-RI2I397I
+  mfg_date: '2021-04-15'
+  exp_date: '2025-04-15'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Drops
+  approval_id: SCH-FDA-3263
+  country: USA
+  composition:
+  - HCTZ 25mg
+metronidazole_439:
+  name: metronidazole
+  batch: KN148114
+  serial: SN-GP1ZQD54
+  mfg_date: '2021-05-11'
+  exp_date: '2025-05-11'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Tablet
+  approval_id: SCH-FDA-3735
+  country: USA
+  composition:
+  - Metronidazole 75mg
+cephalexin_440:
+  name: cephalexin
+  batch: KO718856
+  serial: SN-9B0MQOQ4
+  mfg_date: '2023-09-13'
+  exp_date: '2028-09-13'
+  manufacturer: Apex Biotech
+  drug_type: Cream
+  approval_id: SCH-FDA-8816
+  country: UK
+  composition:
+  - Cephalexin 100mg
+morphine_441:
+  name: morphine
+  batch: PJ634559
+  serial: SN-DKMU6U4P
+  mfg_date: '2020-12-25'
+  exp_date: '2022-12-25'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Ointment
+  approval_id: SCH-FDA-7292
+  country: India
+  composition:
+  - Morphine 250mg
+ondansetron_o_442:
+  name: ondansetron_o
+  batch: HW331242
+  serial: SN-G7JVDIKD
+  mfg_date: '2020-03-02'
+  exp_date: '2023-03-02'
+  manufacturer: Greenline Pharma
+  drug_type: Syrup
+  approval_id: SCH-FDA-1448
+  country: China
+  composition:
+  - Ondansetron O 50mg
+fluconazole_443:
+  name: fluconazole
+  batch: FY575821
+  serial: SN-Z4PPJ590
+  mfg_date: '2023-04-01'
+  exp_date: '2028-04-01'
+  manufacturer: Schleiden BioHealth
+  drug_type: Capsule
+  approval_id: SCH-FDA-6795
+  country: Spain
+  composition:
+  - Fluconazole 75mg
+naltrexone_444:
+  name: naltrexone
+  batch: IL760680
+  serial: SN-DZSGU4W8
+  mfg_date: '2020-12-03'
+  exp_date: '2024-12-03'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Tablet
+  approval_id: SCH-FDA-5029
+  country: China
+  composition:
+  - Naltrexone 100mg
+lamotrigine_445:
+  name: lamotrigine
+  batch: DV721898
+  serial: SN-0ACUHGPJ
+  mfg_date: '2022-04-22'
+  exp_date: '2025-04-22'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Drops
+  approval_id: SCH-FDA-4845
+  country: Japan
+  composition:
+  - Lamotrigine 250mg
+finasteride_446:
+  name: finasteride
+  batch: RM655229
+  serial: SN-61PQIPG8
+  mfg_date: '2023-11-06'
+  exp_date: '2027-11-06'
+  manufacturer: NovaMed Labs
+  drug_type: Capsule
+  approval_id: SCH-FDA-6694
+  country: France
+  composition:
+  - Finasteride 300mg
+gentamicin_447:
+  name: gentamicin
+  batch: RA228453
+  serial: SN-YO3PJBRH
+  mfg_date: '2020-08-27'
+  exp_date: '2025-08-27'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Tablet
+  approval_id: SCH-FDA-6054
+  country: Italy
+  composition:
+  - Gentamicin 500mg
+lorazepam_448:
+  name: lorazepam
+  batch: YP360780
+  serial: SN-Z61TXSNH
+  mfg_date: '2020-10-06'
+  exp_date: '2023-10-06'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Syrup
+  approval_id: SCH-FDA-9776
+  country: USA
+  composition:
+  - Lorazepam 300mg
+oxycodone_449:
+  name: oxycodone
+  batch: KO208755
+  serial: SN-2BKAWYB0
+  mfg_date: '2020-05-26'
+  exp_date: '2023-05-26'
+  manufacturer: Apex Biotech
+  drug_type: Drops
+  approval_id: SCH-FDA-7565
+  country: Spain
+  composition:
+  - Oxycodone 100mg
+buprenorphine_450:
+  name: buprenorphine
+  batch: AT590538
+  serial: SN-42P0KQD8
+  mfg_date: '2021-02-03'
+  exp_date: '2023-02-03'
+  manufacturer: Horizon Medicos
+  drug_type: Inhaler
+  approval_id: SCH-FDA-7169
+  country: Italy
+  composition:
+  - Buprenorphine 200mg
+esomeprazole_451:
+  name: esomeprazole
+  batch: XN204335
+  serial: SN-DI9OINUX
+  mfg_date: '2019-04-14'
+  exp_date: '2023-04-14'
+  manufacturer: VitaCrest Labs
+  drug_type: Ointment
+  approval_id: SCH-FDA-3355
+  country: France
+  composition:
+  - Esomeprazole 20mg
+sulfamethoxazole_452:
+  name: sulfamethoxazole
+  batch: PC485870
+  serial: SN-RO04BYV5
+  mfg_date: '2019-02-18'
+  exp_date: '2022-02-18'
+  manufacturer: NovaMed Labs
+  drug_type: Cream
+  approval_id: SCH-FDA-4427
+  country: Japan
+  composition:
+  - Sulfamethoxazole 500mg
+fluconazole_453:
+  name: fluconazole
+  batch: SN890163
+  serial: SN-1F0FP8BP
+  mfg_date: '2022-06-21'
+  exp_date: '2025-06-21'
+  manufacturer: Apex Biotech
+  drug_type: Syrup
+  approval_id: SCH-FDA-9594
+  country: Japan
+  composition:
+  - Fluconazole 500mg
+doxycycline_454:
+  name: doxycycline
+  batch: DZ782385
+  serial: SN-FKY28NVQ
+  mfg_date: '2024-09-14'
+  exp_date: '2029-09-14'
+  manufacturer: Schleiden BioHealth
+  drug_type: Injection
+  approval_id: SCH-FDA-6409
+  country: France
+  composition:
+  - Doxycycline 100mg
+naltrexone_455:
+  name: naltrexone
+  batch: KD093165
+  serial: SN-LCQFMUIW
+  mfg_date: '2024-03-06'
+  exp_date: '2029-03-06'
+  manufacturer: Schleiden BioHealth
+  drug_type: Injection
+  approval_id: SCH-FDA-5498
+  country: Spain
+  composition:
+  - Naltrexone 200mg
+esomeprazole_456:
+  name: esomeprazole
+  batch: YO625121
+  serial: SN-UESXNU4V
+  mfg_date: '2023-12-10'
+  exp_date: '2027-12-10'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Inhaler
+  approval_id: SCH-FDA-4429
+  country: Italy
+  composition:
+  - Esomeprazole 20mg
+gabapentin_457:
+  name: gabapentin
+  batch: DM009184
+  serial: SN-QK1IO1ZM
+  mfg_date: '2019-04-07'
+  exp_date: '2021-04-07'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Ointment
+  approval_id: SCH-FDA-9694
+  country: UK
+  composition:
+  - Gabapentin 300mg
+simvastatin_458:
+  name: simvastatin
+  batch: VO476543
+  serial: SN-ANQY0HU9
+  mfg_date: '2023-04-06'
+  exp_date: '2027-04-06'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Injection
+  approval_id: SCH-FDA-7266
+  country: UK
+  composition:
+  - Simvastatin 20mg
+furosemide_459:
+  name: furosemide
+  batch: NA303296
+  serial: SN-BJRBZJW8
+  mfg_date: '2020-12-01'
+  exp_date: '2023-12-01'
+  manufacturer: VitaCrest Labs
+  drug_type: Tablet
+  approval_id: SCH-FDA-8713
+  country: Spain
+  composition:
+  - Furosemide 40mg
+metronidazole_460:
+  name: metronidazole
+  batch: TU008178
+  serial: SN-EP4CWCDT
+  mfg_date: '2024-08-16'
+  exp_date: '2027-08-16'
+  manufacturer: VitaCrest Labs
+  drug_type: Injection
+  approval_id: SCH-FDA-1273
+  country: Canada
+  composition:
+  - Metronidazole 250mg
+benzoyl_peroxide_461:
+  name: benzoyl_peroxide
+  batch: YK860857
+  serial: SN-DPJHSG04
+  mfg_date: '2021-12-06'
+  exp_date: '2025-12-06'
+  manufacturer: Horizon Medicos
+  drug_type: Tablet
+  approval_id: SCH-FDA-6098
+  country: India
+  composition:
+  - Benzoyl Peroxide 200mg
+clotrimazole_462:
+  name: clotrimazole
+  batch: OM107159
+  serial: SN-12HNC0I4
+  mfg_date: '2021-02-11'
+  exp_date: '2026-02-11'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Injection
+  approval_id: SCH-FDA-3174
+  country: USA
+  composition:
+  - Clotrimazole 200mg
+amlodipine_463:
+  name: amlodipine
+  batch: OK821924
+  serial: SN-DMN1S3YG
+  mfg_date: '2022-12-10'
+  exp_date: '2025-12-10'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Drops
+  approval_id: SCH-FDA-3551
+  country: UK
+  composition:
+  - Amlodipine 5mg
+clarithromycin_464:
+  name: clarithromycin
+  batch: VU265870
+  serial: SN-1JQBEXGF
+  mfg_date: '2023-04-23'
+  exp_date: '2028-04-23'
+  manufacturer: Apex Biotech
+  drug_type: Ointment
+  approval_id: SCH-FDA-7099
+  country: Canada
+  composition:
+  - Clarithromycin 300mg
+acetylcysteine_465:
+  name: acetylcysteine
+  batch: WA436193
+  serial: SN-QGA3QUPO
+  mfg_date: '2023-01-11'
+  exp_date: '2025-01-11'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Injection
+  approval_id: SCH-FDA-5138
+  country: Spain
+  composition:
+  - Acetylcysteine 250mg
+topiramate_466:
+  name: topiramate
+  batch: ZW795479
+  serial: SN-OBS7587H
+  mfg_date: '2021-08-22'
+  exp_date: '2026-08-22'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Syrup
+  approval_id: SCH-FDA-3128
+  country: India
+  composition:
+  - Topiramate 250mg
+amlodipine_467:
+  name: amlodipine
+  batch: KL621318
+  serial: SN-P0FT1AFD
+  mfg_date: '2019-05-26'
+  exp_date: '2022-05-26'
+  manufacturer: Apex Biotech
+  drug_type: Drops
+  approval_id: SCH-FDA-4481
+  country: Japan
+  composition:
+  - Amlodipine 5mg
+tadalafil_468:
+  name: tadalafil
+  batch: TC171788
+  serial: SN-0POCR0VH
+  mfg_date: '2024-07-27'
+  exp_date: '2029-07-27'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Syrup
+  approval_id: SCH-FDA-4852
+  country: Germany
+  composition:
+  - Tadalafil 250mg
+loratadine_469:
+  name: loratadine
+  batch: TX611243
+  serial: SN-XPKN3B8P
+  mfg_date: '2021-09-27'
+  exp_date: '2023-09-27'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Syrup
+  approval_id: SCH-FDA-7524
+  country: Australia
+  composition:
+  - Loratadine 75mg
+sildenafil_470:
+  name: sildenafil
+  batch: UA353449
+  serial: SN-O1KJWV2Q
+  mfg_date: '2019-06-22'
+  exp_date: '2021-06-22'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Ointment
+  approval_id: SCH-FDA-8758
+  country: Italy
+  composition:
+  - Sildenafil 50mg
+oxycodone_471:
+  name: oxycodone
+  batch: NJ613951
+  serial: SN-30QBKERN
+  mfg_date: '2021-09-12'
+  exp_date: '2023-09-12'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Ointment
+  approval_id: SCH-FDA-5134
+  country: Italy
+  composition:
+  - Oxycodone 300mg
+ranitidine_472:
+  name: ranitidine
+  batch: EJ036530
+  serial: SN-0IDD0WPJ
+  mfg_date: '2024-05-25'
+  exp_date: '2026-05-25'
+  manufacturer: Horizon Medicos
+  drug_type: Inhaler
+  approval_id: SCH-FDA-4999
+  country: France
+  composition:
+  - Ranitidine 500mg
+atorvastatin_473:
+  name: atorvastatin
+  batch: ZQ839097
+  serial: SN-PA8JX54P
+  mfg_date: '2019-06-12'
+  exp_date: '2021-06-12'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Capsule
+  approval_id: SCH-FDA-4139
+  country: Australia
+  composition:
+  - Atorvastatin 10mg
+levetiracetam_474:
+  name: levetiracetam
+  batch: JM747726
+  serial: SN-V6YJOAOE
+  mfg_date: '2021-05-20'
+  exp_date: '2024-05-20'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Cream
+  approval_id: SCH-FDA-8576
+  country: India
+  composition:
+  - Levetiracetam 250mg
+sertraline_475:
+  name: sertraline
+  batch: PS644554
+  serial: SN-UML3F4RT
+  mfg_date: '2020-04-01'
+  exp_date: '2024-04-01'
+  manufacturer: NovaMed Labs
+  drug_type: Syrup
+  approval_id: SCH-FDA-7390
+  country: USA
+  composition:
+  - Sertraline 50mg
+spironolactone_476:
+  name: spironolactone
+  batch: OI293236
+  serial: SN-BWGMP9A9
+  mfg_date: '2022-01-22'
+  exp_date: '2024-01-22'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Inhaler
+  approval_id: SCH-FDA-4845
+  country: Japan
+  composition:
+  - Spironolactone 300mg
+clarithromycin_477:
+  name: clarithromycin
+  batch: FZ511774
+  serial: SN-O1PVLND5
+  mfg_date: '2020-07-20'
+  exp_date: '2022-07-20'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Ointment
+  approval_id: SCH-FDA-9229
+  country: Italy
+  composition:
+  - Clarithromycin 300mg
+heparin_478:
+  name: heparin
+  batch: EW408766
+  serial: SN-DUPPGBIV
+  mfg_date: '2022-08-25'
+  exp_date: '2027-08-25'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Capsule
+  approval_id: SCH-FDA-7697
+  country: Japan
+  composition:
+  - Heparin 50mg
+enalapril_479:
+  name: enalapril
+  batch: YA673519
+  serial: SN-Q0IQZHEC
+  mfg_date: '2023-04-06'
+  exp_date: '2028-04-06'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Tablet
+  approval_id: SCH-FDA-4391
+  country: USA
+  composition:
+  - Enalapril 500mg
+hydroxychloroquine_480:
+  name: hydroxychloroquine
+  batch: ZN163914
+  serial: SN-8ABY595C
+  mfg_date: '2020-11-20'
+  exp_date: '2025-11-20'
+  manufacturer: NovaMed Labs
+  drug_type: Drops
+  approval_id: SCH-FDA-5260
+  country: UK
+  composition:
+  - Hydroxychloroquine 75mg
+oxycodone_481:
+  name: oxycodone
+  batch: VB887039
+  serial: SN-WP2D41U2
+  mfg_date: '2023-11-18'
+  exp_date: '2025-11-18'
+  manufacturer: VitaCrest Labs
+  drug_type: Syrup
+  approval_id: SCH-FDA-7004
+  country: Japan
+  composition:
+  - Oxycodone 300mg
+acetylcysteine_482:
+  name: acetylcysteine
+  batch: CQ084222
+  serial: SN-Q2ZUV1FK
+  mfg_date: '2021-03-08'
+  exp_date: '2026-03-08'
+  manufacturer: NovaMed Labs
+  drug_type: Injection
+  approval_id: SCH-FDA-7076
+  country: France
+  composition:
+  - Acetylcysteine 250mg
+oxycodone_483:
+  name: oxycodone
+  batch: HS618168
+  serial: SN-JI4UFANS
+  mfg_date: '2021-05-23'
+  exp_date: '2024-05-23'
+  manufacturer: Everwell Pharmaceuticals
+  drug_type: Drops
+  approval_id: SCH-FDA-8814
+  country: Canada
+  composition:
+  - Oxycodone 100mg
+levocetirizine_484:
+  name: levocetirizine
+  batch: JY684436
+  serial: SN-CIHFV0EH
+  mfg_date: '2024-03-19'
+  exp_date: '2028-03-19'
+  manufacturer: Horizon Medicos
+  drug_type: Inhaler
+  approval_id: SCH-FDA-8525
+  country: Spain
+  composition:
+  - Levocetirizine 50mg
+naltrexone_485:
+  name: naltrexone
+  batch: AQ952985
+  serial: SN-C2QSI2G7
+  mfg_date: '2023-04-24'
+  exp_date: '2026-04-24'
+  manufacturer: Apex Biotech
+  drug_type: Injection
+  approval_id: SCH-FDA-4741
+  country: Canada
+  composition:
+  - Naltrexone 500mg
+pregabalin_486:
+  name: pregabalin
+  batch: TX913227
+  serial: SN-RD5B2CRP
+  mfg_date: '2019-10-09'
+  exp_date: '2023-10-09'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Inhaler
+  approval_id: SCH-FDA-4234
+  country: Germany
+  composition:
+  - Pregabalin 75mg
+sertraline_487:
+  name: sertraline
+  batch: AL974656
+  serial: SN-19JOJWLR
+  mfg_date: '2023-10-07'
+  exp_date: '2028-10-07'
+  manufacturer: CureCore Pharmaceuticals
+  drug_type: Cream
+  approval_id: SCH-FDA-5909
+  country: Australia
+  composition:
+  - Sertraline 50mg
+propranolol_488:
+  name: propranolol
+  batch: NQ171085
+  serial: SN-RG1YD5MY
+  mfg_date: '2023-04-11'
+  exp_date: '2027-04-11'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Syrup
+  approval_id: SCH-FDA-4171
+  country: China
+  composition:
+  - Propranolol 75mg
+dextromethorphan_489:
+  name: dextromethorphan
+  batch: MR926313
+  serial: SN-GFXLSRVP
+  mfg_date: '2020-04-10'
+  exp_date: '2024-04-10'
+  manufacturer: Apex Biotech
+  drug_type: Cream
+  approval_id: SCH-FDA-4747
+  country: China
+  composition:
+  - Dextromethorphan 200mg
+tadalafil_490:
+  name: tadalafil
+  batch: VI357090
+  serial: SN-OXFQJ3HX
+  mfg_date: '2021-06-05'
+  exp_date: '2025-06-05'
+  manufacturer: Apex Biotech
+  drug_type: Cream
+  approval_id: SCH-FDA-5829
+  country: Spain
+  composition:
+  - Tadalafil 250mg
+azithromycin_491:
+  name: azithromycin
+  batch: OF258123
+  serial: SN-RZQ8BXY6
+  mfg_date: '2021-07-26'
+  exp_date: '2026-07-26'
+  manufacturer: Apex Biotech
+  drug_type: Inhaler
+  approval_id: SCH-FDA-5093
+  country: China
+  composition:
+  - Azithromycin 250mg
+carvedilol_492:
+  name: carvedilol
+  batch: QH391173
+  serial: SN-1OFFKHDI
+  mfg_date: '2023-10-13'
+  exp_date: '2025-10-13'
+  manufacturer: Acme Pharma Ltd
+  drug_type: Cream
+  approval_id: SCH-FDA-9700
+  country: India
+  composition:
+  - Carvedilol 200mg
+mupirocin_493:
+  name: mupirocin
+  batch: YJ772323
+  serial: SN-H8JV7FXP
+  mfg_date: '2019-03-25'
+  exp_date: '2021-03-25'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Inhaler
+  approval_id: SCH-FDA-1786
+  country: Spain
+  composition:
+  - Mupirocin 50mg
+atorva_plus_494:
+  name: atorva_plus
+  batch: WI523000
+  serial: SN-UEFS4UQX
+  mfg_date: '2021-01-19'
+  exp_date: '2026-01-19'
+  manufacturer: Schleiden BioHealth
+  drug_type: Injection
+  approval_id: SCH-FDA-2197
+  country: China
+  composition:
+  - Atorva Plus 300mg
+carvedilol_495:
+  name: carvedilol
+  batch: BQ356840
+  serial: SN-UA3AIPJI
+  mfg_date: '2022-08-24'
+  exp_date: '2025-08-24'
+  manufacturer: GoodMeds Pvt Ltd
+  drug_type: Ointment
+  approval_id: SCH-FDA-9722
+  country: Spain
+  composition:
+  - Carvedilol 500mg
+pseudoephedrine_496:
+  name: pseudoephedrine
+  batch: DU210687
+  serial: SN-T8LLIHKP
+  mfg_date: '2024-04-25'
+  exp_date: '2028-04-25'
+  manufacturer: SunRay Pharmaceuticals
+  drug_type: Cream
+  approval_id: SCH-FDA-4817
+  country: Australia
+  composition:
+  - Pseudoephedrine 150mg
+cetirizine_497:
+  name: cetirizine
+  batch: LT734323
+  serial: SN-3DG60E1E
+  mfg_date: '2019-03-15'
+  exp_date: '2021-03-15'
+  manufacturer: Greenline Pharma
+  drug_type: Inhaler
+  approval_id: SCH-FDA-6871
+  country: India
+  composition:
+  - Cetirizine 250mg
+zolpidem_498:
+  name: zolpidem
+  batch: NY034913
+  serial: SN-LC8XIZX3
+  mfg_date: '2020-04-03'
+  exp_date: '2024-04-03'
+  manufacturer: VitaCrest Labs
+  drug_type: Inhaler
+  approval_id: SCH-FDA-1259
+  country: France
+  composition:
+  - Zolpidem 10mg
+carvedilol_499:
+  name: carvedilol
+  batch: EA514052
+  serial: SN-0KW3PGSF
+  mfg_date: '2024-11-11'
+  exp_date: '2026-11-11'
+  manufacturer: BlueLeaf Therapeutics
+  drug_type: Syrup
+  approval_id: SCH-FDA-6981
+  country: Germany
+  composition:
+  - Carvedilol 75mg
+tramadol_500:
+  name: tramadol
+  batch: JV600047
+  serial: SN-FOT10GDM
+  mfg_date: '2019-08-07'
+  exp_date: '2023-08-07'
+  manufacturer: Greenline Pharma
+  drug_type: Injection
+  approval_id: SCH-FDA-2509
+  country: Canada
+  composition:
+  - Tramadol 50mg
