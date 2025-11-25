@@ -1,67 +1,104 @@
 # ui/main_window.py
-import os
-from PyQt5.QtWidgets import QWidget, QLabel, QPushButton, QVBoxLayout, QApplication
-from PyQt5.QtGui import QPixmap
-from PyQt5.QtCore import Qt, QTimer
+import sys
+from PyQt5.QtWidgets import (
+    QApplication, QWidget, QLabel, QVBoxLayout,
+    QPushButton, QTextEdit, QHBoxLayout
+)
+from PyQt5.QtCore import Qt
+from robot.eyes import Eyes
+    from robot.brain import RobotBrain
+from robot.camera_detector import CameraDetector
+from robot.stt import STTEngine
 
-from robot.brain import RobotBrain
-from robot.eyes import EyesController
 
 class MainWindow(QWidget):
     def __init__(self):
         super().__init__()
-
         self.setWindowTitle("Schleiden Virtual Robot")
-        self.setFixedSize(500, 500)
-        self.setStyleSheet("background-color: black;")
+        self.setGeometry(300, 100, 500, 500)
 
-        # === Load robot eyes ===
-        expressions_path = os.path.join("assets", "expressions")
-        self.eyes = EyesController(expressions_path)
+        # ---------------------- UI LAYOUT ----------------------
+        self.main_layout = QVBoxLayout()
+        self.setLayout(self.main_layout)
 
-        # === Robot brain ===
+        # --- Robot face ----
+        self.face_label = QLabel()
+        self.face_label.setAlignment(Qt.AlignCenter)
+        self.face_label.setFixedSize(300, 300)
+        self.main_layout.addWidget(self.face_label)
+
+        # ------------------ ROBOT SETUP ------------------
+        self.eyes = Eyes(self.face_label)
         self.brain = RobotBrain(self.eyes)
 
-        # === Face Display Widget ===
-        self.face_label = QLabel(self)
-        self.face_label.setAlignment(Qt.AlignCenter)
-        self.face_label.setStyleSheet("background-color: black;")
-        self.update_face(self.eyes.get_current_expression())
+        # preload
+        self.eyes.set_expression("neutral")
 
-        # === Buttons ===
-        btn_speak = QPushButton("Test Speak")
-        btn_speak.clicked.connect(lambda: self.brain.say("Hello! I am Schleiden!"))
+        # ------------------ TEXT INPUT -------------------
+        self.input_text = QTextEdit()
+        self.input_text.setFixedHeight(50)
+        self.main_layout.addWidget(self.input_text)
 
-        btn_listen = QPushButton("Ask Something")
-        btn_listen.clicked.connect(self.handle_listen)
+        # SPEAK button
+        self.speak_btn = QPushButton("Speak Text")
+        self.speak_btn.clicked.connect(self.on_speak)
+        self.main_layout.addWidget(self.speak_btn)
 
-        # === Layout ===
-        layout = QVBoxLayout()
-        layout.addWidget(self.face_label)
-        layout.addWidget(btn_speak)
-        layout.addWidget(btn_listen)
-        self.setLayout(layout)
+        # LISTEN button
+        self.listen_btn = QPushButton("Voice Input 🎤")
+        self.listen_btn.clicked.connect(self.listen)
+        self.main_layout.addWidget(self.listen_btn)
 
-        # === Blink Timer ===
-        self.blink_timer = QTimer()
-        self.blink_timer.timeout.connect(self.do_blink)
-        self.blink_timer.start(4000)
+        # ------------------ REACTIONS --------------------
+        self.reaction_layout = QHBoxLayout()
+        self.main_layout.addLayout(self.reaction_layout)
 
-        # === Camera Detector ===
-        self.brain.start_camera(self.on_person_entered)
+        for name, method in [
+            ("Happy", self.brain.react_happy),
+            ("Angry", self.brain.react_angry),
+            ("Confused", self.brain.react_confused),
+            ("Wink", self.brain.react_wink),
+        ]:
+            btn = QPushButton(name)
+            btn.clicked.connect(method)
+            self.reaction_layout.addWidget(btn)
 
-    def update_face(self, pixmap):
-        self.face_label.setPixmap(pixmap.scaled(400, 400, Qt.KeepAspectRatio))
+        # ------------------ CAMERA DETECTOR --------------------
+        self.camera = CameraDetector(on_person_detected=self.on_person_detected)
+        self.camera.start()
 
-    def do_blink(self):
-        frame = self.eyes.blink()
-        self.update_face(frame)
+        # ------------------ STT ENGINE --------------------
+        self.stt = STTEngine()
 
-        QTimer.singleShot(120, lambda: self.update_face(self.eyes.get_current_expression()))
+    # ---------------------- BUTTON FUNCTIONS ----------------------
+    def on_speak(self):
+        text = self.input_text.toPlainText().strip()
+        if text:
+            print(f"[UI] Speak: {text}")
+            self.brain.speak(text)
 
-    def on_person_entered(self):
-        self.brain.say("Hello! I see you there!")
+    def listen(self):
+        """Trigger microphone STT"""
+        print("[UI] Starting microphone listening...")
 
-    def handle_listen(self):
-        text = self.brain.listen()
-        self.brain.say("You said: " + text)
+        def callback(text):
+            if text:
+                print(f"[UI] STT result → {text}")
+                self.brain.speak(f"You said: {text}")
+            else:
+                print("[UI] STT failed")
+                self.brain.speak("I didn't catch that.")
+
+        self.stt.listen(callback)
+
+    def on_person_detected(self, frame=None):
+        print("[Camera] Person detected!")
+        self.brain.react_happy()
+
+
+# ---------------------- APP START ----------------------
+if __name__ == "__main__":
+    app = QApplication(sys.argv)
+    window = MainWindow()
+    window.show()
+    sys.exit(app.exec_())

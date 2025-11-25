@@ -1,26 +1,48 @@
 # robot/stt.py
 import speech_recognition as sr
+import threading
 
-class SpeechToText:
-    def __init__(self, energy_threshold=300):
+class STTEngine:
+    """
+    Simple speech-to-text module.
+    Listens once, converts speech to text, returns result via callback.
+    Runs in a thread so UI never freezes.
+    """
+
+    def __init__(self):
         self.recognizer = sr.Recognizer()
-        self.recognizer.energy_threshold = energy_threshold
         self.mic = sr.Microphone()
 
-    def listen(self):
-        """Record one phrase from microphone and return text."""
-        try:
+    def listen(self, callback):
+        """
+        Listen once in a background thread.
+        When speech is recognized, call: callback(text)
+        If failed, callback(None)
+        """
+
+        def listen_worker():
+            print("[STT] 🎤 Initializing microphone...")
             with self.mic as source:
-                print("🎤 Listening...")
-                self.recognizer.adjust_for_ambient_noise(source, duration=0.5)
-                audio = self.recognizer.listen(source, timeout=5, phrase_time_limit=6)
+                self.recognizer.adjust_for_ambient_noise(source)
+                print("[STT] 🔊 Listening...")
 
-            print("🧠 Recognizing...")
-            return self.recognizer.recognize_google(audio)
+                try:
+                    audio = self.recognizer.listen(source, timeout=5, phrase_time_limit=5)
+                    text = self.recognizer.recognize_google(audio)
+                    print(f"[STT] ✔ Heard: {text}")
+                    callback(text)
 
-        except sr.WaitTimeoutError:
-            return "I didn't hear anything..."
-        except sr.UnknownValueError:
-            return "Sorry, I didn't understand that."
-        except Exception as e:
-            return f"Error: {e}"
+                except sr.UnknownValueError:
+                    print("[STT] ❌ Didn't understand speech")
+                    callback(None)
+
+                except sr.RequestError as e:
+                    print(f"[STT] ❌ API Error: {e}")
+                    callback(None)
+
+                except Exception as e:
+                    print(f"[STT] ❌ Unexpected error: {e}")
+                    callback(None)
+
+        # Run without blocking UI
+        threading.Thread(target=listen_worker, daemon=True).start()

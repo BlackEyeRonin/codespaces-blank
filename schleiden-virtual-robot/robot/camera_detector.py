@@ -4,6 +4,11 @@ import threading
 import time
 
 class CameraDetector:
+    """
+    Handles webcam feed and face detection in a separate thread.
+    Calls a callback when a person (face) is detected.
+    """
+
     def __init__(self, on_person_detected=None):
         self.on_detect = on_person_detected
         self.running = False
@@ -13,7 +18,6 @@ class CameraDetector:
 
         # auto-detect camera
         self.cam_id = self.get_available_camera()
-
         if self.cam_id is None:
             print("❌ No camera found.")
             self.cap = None
@@ -33,13 +37,11 @@ class CameraDetector:
     def start(self):
         if not self.cap:
             return
-
         self.running = True
-        threading.Thread(target=self.loop, daemon=True).start()
+        threading.Thread(target=self._loop, daemon=True).start()
 
-    def loop(self):
+    def _loop(self):
         detected_before = False
-
         while self.running:
             ret, frame = self.cap.read()
             if not ret:
@@ -56,7 +58,7 @@ class CameraDetector:
             if person_here and not detected_before:
                 detected_before = True
                 if self.on_detect:
-                    self.on_detect()  # callback to robot brain
+                    self.on_detect(frame)  # optional frame passed to callback
 
             if not person_here:
                 detected_before = False

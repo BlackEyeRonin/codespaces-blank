@@ -1,79 +1,51 @@
-import random
-import datetime
-import yaml
-from textblob import TextBlob
+# robot/brain.py
+from robot.speech import SpeechEngine
 
 class RobotBrain:
-    def __init__(self, eyes=None, faq_path="data/faq_schleiden.yaml"):
+    """
+    Controls robot behavior: reactions + speaking + animations.
+    """
+    def __init__(self, eyes):
         self.eyes = eyes
-        self.mood = "neutral"
-        self.faq = self._load_faq(faq_path)
+        self.speech = SpeechEngine(eyes_controller=eyes)
 
-    # -------------------------------------------------------------------------
-    def _load_faq(self, path):
-        try:
-            with open(path, "r") as f:
-                return yaml.safe_load(f)
-        except:
-            return {}
+        # Map logical expression names to available GIFs
+        self.expression_map = [
+            "neutral", "speaking", "happy", "angry", "confused", "wink",
+            "concerned", "sad_disagree", "look_left", "look_right", "lens_reajust"
+        ]
 
-    # -------------------------------------------------------------------------
-    def analyze_sentiment(self, text):
-        """Determine robot emotion based on user message sentiment."""
-        score = TextBlob(text).sentiment.polarity
+    def set_expression(self, name: str):
+        """Safely set an expression. Defaults to neutral if missing."""
+        if name not in self.expression_map:
+            name = "neutral"
+        self.eyes.set_expression(name)
 
-        if score > 0.3:
-            self.mood = "happy"
-        elif score < -0.2:
-            self.mood = "concerned"
-        else:
-            self.mood = "neutral"
+    def speak(self, text: str):
+        """Speak text while animating speaking GIF."""
+        self.speech.speak(text)
 
-        if self.eyes:
-            self.eyes.set_expression(self.mood)
+    # Predefined reactions
+    def react_happy(self):
+        self.set_expression("happy")
 
-        return self.mood
+    def react_angry(self):
+        self.set_expression("angry")
 
-    # -------------------------------------------------------------------------
-    def reply(self, text):
-        """Main AI response engine (simple rule-based + FAQ)."""
+    def react_confused(self):
+        self.set_expression("concerned")
 
-        # 1. Sentiment-based emotion
-        self.analyze_sentiment(text)
+    def react_wink(self):
+        self.set_expression("wink")
 
-        # 2. FAQ matching
-        for q, a in self.faq.items():
-            if q.lower() in text.lower():
-                return a
+    def react_sad_disagree(self):
+        self.set_expression("sad_disagree")
 
-        # 3. Generic responses
-        responses = {
-            "happy": [
-                "Aww, that makes me happy too!",
-                "You're so kind!",
-                "I'm smiling with my pixels!"
-            ],
-            "neutral": [
-                "Hmm, interesting. Tell me more!",
-                "Okay! What else do you want to know?",
-                "I'm listening carefully."
-            ],
-            "concerned": [
-                "Oh? Everything okay?",
-                "That sounds a bit scary...",
-                "I'm here for you."
-            ]
-        }
+    def look_left(self):
+        self.set_expression("look_left")
 
-        return random.choice(responses[self.mood])
+    def look_right(self):
+        self.set_expression("look_right")
 
-    # -------------------------------------------------------------------------
-    def start_speaking(self):
-        """Animate eyes during speech."""
-        if self.eyes:
-            self.eyes.start_speaking()
-
-    def stop_speaking(self):
-        """Return to mood expression after speech."""
-        if self.eyes:
-            self.eyes.stop_speaking()
+    def reajust_lens(self):
+        self.set_expression("lens_reajust")

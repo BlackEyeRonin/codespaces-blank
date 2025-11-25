@@ -1,77 +1,63 @@
 import os
-from PyQt5.QtCore import QTimer
-from PyQt5.QtGui import QPixmap
+from PyQt5.QtGui import QMovie
+from PyQt5.QtWidgets import QLabel
 
-class EyesController:
-    def __init__(self, label_widget, asset_path="assets/expressions"):
-        """
-        label_widget = QLabel where the face will display
-        """
-        self.label = label_widget
-        self.path = asset_path
 
-        # Expression map
-        self.frames = {
-            "neutral": ["neutral.png"],
-            "happy": ["happy.png"],
-            "concerned": ["concerned.png"],
-            "angry": ["angry.png"],
-            "speaking": ["speaking_01.png", "speaking_02.png"],
-            "blink": ["blink_01.png", "blink_02.png"]
+class Eyes:
+    """
+    Handles animated GIF expressions for the robot.
+    Uses QMovie for smooth animations without blocking UI.
+    """
+
+    def __init__(self, label: QLabel):
+        self.label = label
+        self.current_movie = None
+
+        # Path to GIFs
+        self.expressions_path = os.path.join("assets", "expressions")
+
+        # Safety
+        if self.label:
+            self.label.setScaledContents(True)
+        else:
+            print("[Eyes] ⚠ WARNING: No QLabel provided.")
+
+        # Cache available expressions to avoid repeated disk checks
+        self.available = {
+            f[:-4] for f in os.listdir(self.expressions_path)
+            if f.endswith(".gif")
         }
 
-        self.current_expression = "neutral"
-        self.current_frame_index = 0
+    def set_expression(self, expression_name: str):
+        """
+        Switch robot's eyes to a new GIF.
+        Falls back to 'neutral' if the GIF doesn't exist.
+        """
 
-        # Timers
-        self.speaking_timer = QTimer()
-        self.speaking_timer.timeout.connect(self._animate_speaking)
+        # Auto fallback
+        if expression_name not in self.available:
+            print(f"[Eyes] ⚠ '{expression_name}' not found. Using 'neutral'.")
+            expression_name = "neutral"
 
-        self.blink_timer = QTimer()
-        self.blink_timer.timeout.connect(self._blink)
-        self.blink_timer.start(3500)  # every ~3.5s
+        gif_path = os.path.join(self.expressions_path, f"{expression_name}.gif")
 
-        self.set_expression("neutral")
+        # Stop previous animation
+        if self.current_movie:
+            self.current_movie.stop()
 
-    # -------------------------------------------------------------------------
-    def _set_frame(self, frame_name):
-        frame_path = os.path.join(self.path, frame_name)
-        pix = QPixmap(frame_path)
-        self.label.setPixmap(pix)
+        # Load new GIF
+        self.current_movie = QMovie(gif_path)
 
-    # -------------------------------------------------------------------------
-    def set_expression(self, expression):
-        """Switch robot facial expression instantly."""
-        if expression not in self.frames:
-            expression = "neutral"
+        if not self.label:
+            print("[Eyes] ❌ ERROR: No QLabel to display GIF.")
+            return
 
-        self.current_expression = expression
-        self.current_frame_index = 0
+        self.label.setMovie(self.current_movie)
+        self.current_movie.start()
 
-        frame = self.frames[expression][0]
-        self._set_frame(frame)
+        print(f"[Eyes] ✔ Expression changed → {expression_name}")
 
-    # -------------------------------------------------------------------------
-    def _blink(self):
-        """Handles blink animation automatically."""
-        self._set_frame(self.frames["blink"][0])
-        QTimer.singleShot(120, lambda: self._set_frame(self.frames["blink"][1]))
-        QTimer.singleShot(220, lambda: self.set_expression(self.current_expression))
-
-    # -------------------------------------------------------------------------
-    def start_speaking(self):
-        """Start mouth/eye animation."""
-        self.speaking_timer.start(180)
-
-    # -------------------------------------------------------------------------
-    def stop_speaking(self):
-        """Stop animation and return to normal mood expression."""
-        self.speaking_timer.stop()
-        self.set_expression(self.current_expression)
-
-    # -------------------------------------------------------------------------
-    def _animate_speaking(self):
-        """Cycle between speaking frames."""
-        frames = self.frames["speaking"]
-        self.current_frame_index = (self.current_frame_index + 1) % len(frames)
-        self._set_frame(frames[self.current_frame_index])
+    def stop(self):
+        """Stop the animation (optional helper)."""
+        if self.current_movie:
+            self.current_movie.stop()
