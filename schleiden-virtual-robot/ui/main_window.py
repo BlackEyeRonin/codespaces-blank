@@ -6,7 +6,7 @@ from PyQt5.QtWidgets import (
 )
 from PyQt5.QtCore import Qt
 from robot.eyes import Eyes
-    from robot.brain import RobotBrain
+from robot.brain import RobotBrain
 from robot.camera_detector import CameraDetector
 from robot.stt import STTEngine
 
@@ -23,7 +23,8 @@ class MainWindow(QWidget):
 
         # --- Robot face ----
         self.face_label = QLabel()
-        self.face_label.setAlignment(Qt.AlignCenter)
+        # type: ignore → prevents Pylance "unknown attribute" warning
+        self.face_label.setAlignment(Qt.AlignCenter)  # type: ignore
         self.face_label.setFixedSize(300, 300)
         self.main_layout.addWidget(self.face_label)
 
@@ -31,7 +32,7 @@ class MainWindow(QWidget):
         self.eyes = Eyes(self.face_label)
         self.brain = RobotBrain(self.eyes)
 
-        # preload
+        # preload neutral face
         self.eyes.set_expression("neutral")
 
         # ------------------ TEXT INPUT -------------------
